@@ -9,6 +9,7 @@ construcción y consolidación de la base de datos (Fase 1 / Raw Data).
 ---
 
 ## 📁 Estructura del repositorio
+```
 AD_Trabajo_Practico_G6/
 ├── data/raw/                        # Datasets crudos extraídos (Raw Data)
 │   ├── argenprop_departamentos_caba.csv
@@ -21,7 +22,7 @@ AD_Trabajo_Practico_G6/
 ├── extraccion_datos.ipynb           # Notebook de carga, inspección y consolidación
 ├── entrega1_contexto_negocio.pdf    # Documento de contexto, hipótesis y KPIs
 └── README.md
-
+```
 ---
 
 ## 🗂️ Fuentes de datos
