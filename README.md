@@ -10,18 +10,17 @@ construcción y consolidación de la base de datos (Fase 1 / Raw Data).
 
 ## 📁 Estructura del repositorio
 AD_Trabajo_Practico_G6/
-├── data/raw/ # Datasets crudos extraídos (Raw Data)
-│ ├── argenprop_departamentos_caba.csv
-│ ├── mercadolibre_alquiler_caba.csv
-│ └── mercadolibre_venta_caba.csv
-├── scrapers/ # Scripts de extracción de cada fuente
-│ ├── scraper_argenprop.py
-│ ├── scraper_ml_venta.py
-│ └── scraper_ml_alquiler.py
-├── extraccion_datos.ipynb # Notebook de carga, inspección y consolidación
-├── entrega1_contexto_negocio.pdf # Documento de contexto, hipótesis y KPIs
+├── data/raw/                        # Datasets crudos extraídos (Raw Data)
+│   ├── argenprop_departamentos_caba.csv
+│   ├── mercadolibre_alquiler_caba.csv
+│   └── mercadolibre_venta_caba.csv
+├── scrapers/                        # Scripts de extracción de cada fuente
+│   ├── scraper_argenprop.py
+│   ├── scraper_ml_venta.py
+│   └── scraper_ml_alquiler.py
+├── extraccion_datos.ipynb           # Notebook de carga, inspección y consolidación
+├── entrega1_contexto_negocio.pdf    # Documento de contexto, hipótesis y KPIs
 └── README.md
-
 
 ---
 
