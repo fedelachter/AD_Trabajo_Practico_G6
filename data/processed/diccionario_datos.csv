@@ -1,0 +1,30 @@
+﻿variable,significado,tipo,unidad,fuente,transformaciones
+id_aviso,Código del aviso en MercadoLibre (MLA...). Identificador único.,texto,-,Scraping ML,Ninguna
+operacion,Operación del aviso: venta o alquiler.,categórica,-,Scraping ML,Asignada por archivo de origen
+tipo_propiedad,"Tipología: departamento, PH o casa.",categórica,-,Scraping ML,Ninguna
+es_emprendimiento,1 si es obra nueva/emprendimiento. En alquiler no se relevó: se asume 0.,dicotómica,0/1,Scraping ML,Supuesto 0 en alquiler
+barrio,Barrio oficial de CABA (48). Vacío si no se pudo resolver o es una zona ambigua.,categórica,-,Scraping ML,"Normalizado a barrios oficiales (alias, sub-barrios, dirección)"
+barrio_original,Barrio tal como vino del scraping.,texto,-,Scraping ML,Ninguna
+barrio_via,"Cómo se resolvió el barrio: directo, desde_direccion, ambiguo, no_resuelto.",categórica,-,Derivada,Regla de resolver_barrio
+ciudad,Ciudad según el aviso.,categórica,-,Scraping ML,Ninguna (los de fuera de CABA se eliminaron)
+direccion,Ubicación textual del aviso.,texto,-,Scraping ML,Ninguna
+titulo,Título del aviso.,texto,-,Scraping ML,Ninguna
+moneda,Moneda del precio publicado: USD o ARS.,categórica,-,Scraping ML,Ninguna
+precio,Precio publicado en la moneda del aviso (alquiler: mensual).,numérica,ARS o USD,Scraping ML,Ninguna; ver precio_valido
+precio_usd,Precio en USD. Igual a precio si la moneda es USD; vacío en ARS hasta definir TIPO_CAMBIO.,numérica,USD,Derivada,Conversión solo con cotización documentada
+precio_valido,False si el precio es atípico (z robusto por operación x moneda) o placeholder.,dicotómica,True/False,Derivada,Marca; no elimina filas
+precio_m2,"precio / m2_cubiertos, en la moneda del aviso. Vacío si el precio no es válido o falta m².",numérica,moneda/m²,Derivada,No comparable entre monedas
+m2_cubiertos,Superficie cubierta. Vacía si era imposible (<10) o faltaba.,numérica,m²,Scraping ML,<10 a NaN; no se imputa
+ambientes,Cantidad de ambientes.,ordinal (entero),ambientes,Scraping ML / título,Incoherentes a NaN; recuperado del título; imputado por grupo
+ambientes_origen,"Origen del dato: cargado, titulo o imputado.",categórica,-,Derivada,Trazabilidad de la imputación
+banos,Cantidad de baños.,ordinal (entero),baños,Scraping ML,Incoherentes a NaN; imputado por moda de grupo
+banos_imputado,True si el dato de baños fue imputado.,dicotómica,True/False,Derivada,Trazabilidad de la imputación
+dup_posible,"True si repite operación, dirección, precio, moneda, m² y ambientes de otro aviso.",dicotómica,True/False,Derivada,Marca; se conserva (puede ser un emprendimiento)
+posible_no_residencial,"True si el título menciona tipología no residencial (oficina, hotel, galpón, consultorio, terreno...).",dicotómica,True/False,Derivada,Marca conservadora; no elimina filas
+m2_fuera_rango,True si el m² original era imposible.,dicotómica,True/False,Derivada,Marca de corrección
+ambientes_fuera_rango,True si los ambientes originales eran incoherentes.,dicotómica,True/False,Derivada,Marca de corrección
+banos_fuera_rango,True si los baños originales eran incoherentes.,dicotómica,True/False,Derivada,Marca de corrección
+precio_atipico,True si el z robusto de log10(precio) supera el umbral dentro de su grupo.,dicotómica,True/False,Derivada,Marca
+precio_placeholder,True si el precio tiene 5+ dígitos iguales seguidos.,dicotómica,True/False,Derivada,Marca
+split,"Partición reproducible train/test (semilla fija, por operación).",categórica,-,Derivada,Definida antes de imputar
+link,URL del aviso sin parámetros de tracking.,texto,-,Scraping ML,Se quita lo que sigue al '#'
