@@ -1,0 +1,17 @@
+# Dependencias del proyecto — TP Analítica Descriptiva G6
+# Instalación:  pip install -r requirements.txt
+
+# Análisis de datos
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+
+# Visualización
+matplotlib>=3.7
+seaborn>=0.12
+
+# Scraping (solo para re-ejecutar la extracción en scrapers/)
+requests>=2.31
+beautifulsoup4>=4.12
+playwright>=1.40
+curl_cffi>=0.6
