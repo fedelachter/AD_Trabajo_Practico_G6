@@ -1,0 +1,465 @@
+FID,id,gna,nam,fna,línea,caa,progresiva,fuente,geom,long,lat
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e48,520,Estación,Chivilcoy Sud,Estación Chivilcoy Sud,FFCC Sarmiento,SOFSE,,,POINT (-59.99612955939485 -34.91741632895207),-59.99612956,-34.91741633
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e49,521,Estación,Andrés Vaccareza (Alberti),Estación Andrés Vaccareza (Alberti),FFCC Sarmiento,SOFSE,,,POINT (-60.27756731340126 -35.03459707121156),-60.27756731,-35.03459707
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e4a,523,Estación,Suipacha,Estación Suipacha,FFCC Sarmiento,SOFSE,,,POINT (-59.69040669399509 -34.77327428069938),-59.69040669,-34.77327428
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e4b,524,Estación,Bragado,Estación Bragado,FFCC Sarmiento,SOFSE,,,POINT (-60.47851942286195 -35.11974437531145),-60.47851942,-35.11974438
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e4c,528,Estación,Mercedes,Estación Mercedes,FFCC Sarmiento,SOFSE,,,POINT (-59.43242108405843 -34.65767692959696),-59.43242108,-34.65767693
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e4d,48,Estación,Haedo,Estación Haedo,FFCC Sarmiento,SOFSE,17.655,Operador,POINT (-58.59194588896136 -34.644477144900506),-58.59194589,-34.64447714
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e4e,84,Estación,Once,Estación Once,FFCC Sarmiento,SOFSE,0,Operador,POINT (-58.4075158087721 -34.60827979749716),-58.40751581,-34.6082798
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e4f,10,Estación,Kilómetro 16 Maniobras,Estación Kilómetro 16 Maniobras,Mitre,SOFSE,,Operador,POINT (-58.515622809061675 -34.581242423818246),-58.51562281,-34.58124242
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e50,12,Estación,Saavedra,Estación Saavedra,Mitre,SOFSE,12.3,Operador,POINT (-58.487042938761256 -34.55407485033733),-58.48704294,-34.55407485
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e51,18,Estación,3 de Febrero,Estación 3 de Febrero,Mitre,SOFSE,5.658,Operador,POINT (-58.425288888889376 -34.571905555555325),-58.42528889,-34.57190556
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e52,19,Estación,Colegiales,Estación Colegiales,Mitre,SOFSE,7.91,Operador,POINT (-58.44825066894711 -34.57298286031583),-58.44825067,-34.57298286
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e53,21,Estación,Borges,Estación Borges,Mitre,SOFSE,0.713,Operador,POINT (-58.48476685811919 -34.508394745054844),-58.48476686,-34.50839475
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e54,24,Estación,Barrancas,Estación Barrancas,Mitre,SOFSE,5.236,Operador,POINT (-58.49338835309442 -34.472299182570154),-58.49338835,-34.47229918
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e55,27,Estación,Marina Nueva,Estación Marina Nueva,Mitre,SOFSE,10.617,Operador,POINT (-58.538963537935985 -34.444593719468344),-58.53896354,-34.44459372
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e56,28,Estación,San Fernando R,Estación San Fernando R,Mitre,SOFSE,12.225,Operador,POINT (-58.55396479711189 -34.43752470618885),-58.5539648,-34.43752471
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e57,29,Estación,Canal San Fernando,Estación Canal San Fernando,Mitre,SOFSE,13.401,Operador,POINT (-58.562924596902405 -34.42991692019393),-58.5629246,-34.42991692
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e58,30,Estación,Delta,Estación Delta,Mitre,SOFSE,15.203,Operador,POINT (-58.5768859771325 -34.41852769513228),-58.57688598,-34.4185277
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e59,31,Estación,Garín,Estación Garín,Mitre,SOFSE,44.4,Operador,POINT (-58.73667727654625 -34.42156805493757),-58.73667728,-34.42156805
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e5a,33,Estación,Maq. Savio,Estación Maq. Savio,Mitre,SOFSE,48.1,Operador,POINT (-58.77205234557836 -34.40687133152515),-58.77205235,-34.40687133
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e5b,34,Estación,Matheu,Estación Matheu,Mitre,SOFSE,52.25,Operador,POINT (-58.82968876126464 -34.38283677366374),-58.82968876,-34.38283677
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e5c,37,Estación,Capilla del Señor,Estación Capilla del Señor,Mitre,SOFSE,79.5,Operador,POINT (-59.10165987402714 -34.28704570163259),-59.10165987,-34.2870457
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e5d,38,Estación,Caballito,Estación Caballito,Sarmiento,SOFSE,3.767,Operador,POINT (-58.44486096653071 -34.61972919974739),-58.44486097,-34.6197292
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e5e,40,Estación,Flores,Estación Flores,Sarmiento,SOFSE,5.879,Operador,POINT (-58.46569020754392 -34.6276999724844),-58.46569021,-34.62769997
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e5f,42,Taller,Talleres Liniers,Taller Talleres Liniers,Sarmiento,,,,POINT (-58.51394141991028 -34.63753495616979),-58.51394142,-34.63753496
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e60,43,Estación,Liniers,Estación Liniers,Sarmiento,SOFSE,11.513,Operador,POINT (-58.52553387293796 -34.63870159534705),-58.52553387,-34.6387016
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e61,44,Estación,Ciudadela,Estación Ciudadela,Sarmiento,SOFSE,13,Operador,POINT (-58.54152977364977 -34.63986935984226),-58.54152977,-34.63986936
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e62,46,Estación,Ramos Mejía,Estación Ramos Mejía,Sarmiento,SOFSE,15.105,Operador,POINT (-58.56429926126119 -34.640379404264735),-58.56429926,-34.6403794
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e63,49,Estación,San Fernando,Estación San Fernando,Mitre,SOFSE,24.884,Operador,POINT (-58.5591452877396 -34.443924246675195),-58.55914529,-34.44392425
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e64,52,Estación,Carupá,Estación Carupá,Mitre,SOFSE,25.8,Operador,POINT (-58.567602248545086 -34.437415304412625),-58.56760225,-34.4374153
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e65,54,Estación,Tigre,Estación Tigre,Mitre,SOFSE,28,Operador,POINT (-58.58172563487135 -34.423556224521775),-58.58172563,-34.42355622
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e66,57,Estación,Lisandro de la Torre,Estación Lisandro de la Torre,Mitre,SOFSE,6.703,Operador,POINT (-58.436691461433554 -34.56252332148372),-58.43669146,-34.56252332
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e67,59,Estación,Belgrano C,Estación Belgrano C,Mitre,SOFSE,8,Operador,POINT (-58.4495428102863 -34.558435166143404),-58.44954281,-34.55843517
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e68,13,Estación,J. B. Justo,Estación J. B. Justo,Mitre,SOFSE,13.5,Operador,POINT (-58.4947174295082 -34.5424690748738),-58.49471743,-34.54246907
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e69,16,Estación,Bartolomé Mitre,Estación Bartolomé Mitre,Mitre,SOFSE,17,Operador,POINT (-58.489385422391955 -34.515163430371594),-58.48938542,-34.51516343
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e6a,60,Estación,Merlo,Estación Merlo,Sarmiento,SOFSE,30.488,Operador,POINT (-58.72779954676231 -34.66454748877695),-58.72779955,-34.66454749
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e6b,61,Estación,Nuñez,Estación Nuñez,Mitre,SOFSE,9.601,Operador,POINT (-58.46316388888869 -34.5478861111111),-58.46316389,-34.54788611
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e6c,63,Estación,Rivadavia,Estación Rivadavia,Mitre,SOFSE,11.124,Operador,POINT (-58.46812796272146 -34.53622723873806),-58.46812796,-34.53622724
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e6d,758,Estación,Cucha Cucha,Estación Cucha Cucha,FFCC San Martín,SOFSE,203.3,,POINT (-60.40840892746211 -34.62169341571461),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e6e,535,Estación,Olavarría,Estación Olavarría,FFCC Roca no operativo,SOFSE,,,POINT (-60.313912270224414 -36.89621167663057),-60.31391227,-36.89621168
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e6f,538,Estación,Bahía Blanca,Estación Bahía Blanca,FFCC Roca no operativo,SOFSE,,,POINT (-62.28267217591336 -38.72387201997582),-62.28267218,-38.72387202
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e70,64,Estación,Moreno,Estación Moreno,Sarmiento,SOFSE,36.382,Operador,POINT (-58.7896992362823 -34.65055409620922),-58.78969924,-34.6505541
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e71,65,Estación,Vicente López,Estación Vicente López,Mitre,SOFSE,12.475,Operador,POINT (-58.47289915041439 -34.52456085022015),-58.47289915,-34.52456085
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e72,66,Estación,La Reja,Estación La Reja,Sarmiento,SOFSE,40.1,Operador,POINT (-58.82841796146415 -34.63974444155555),-58.82841796,-34.63974444
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e73,67,Estación,Olivos,Estación Olivos,Mitre,SOFSE,14.371,Operador,POINT (-58.48053696262991 -34.5079087236823),-58.48053696,-34.50790872
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e74,69,Estación,La Lucila,Estación La Lucila,Mitre,SOFSE,15.84,Operador,POINT (-58.488451171238204 -34.497575559123064),-58.48845117,-34.49757556
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e75,71,Estación,Martinez,Estación Martinez,Mitre,SOFSE,17.091,Operador,POINT (-58.49644970612562 -34.488619869647664),-58.49644971,-34.48861987
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e76,73,Estación,Acassuso,Estación Acassuso,Mitre,SOFSE,18.29,Operador,POINT (-58.50446341827213 -34.479582840773745),-58.50446342,-34.47958284
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e77,74,Estación,La Fraternidad,Estación La Fraternidad,Sarmiento,SOFSE,56.325,Operador,POINT (-58.997818695703344 -34.598420135269315),-58.9978187,-34.59842014
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e78,75,Estación,San Isidro C,Estación San Isidro C,Mitre,SOFSE,19.594,Operador,POINT (-58.51388407362075 -34.47175279679327),-58.51388407,-34.4717528
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e79,77,Estación,Beccar,Estación Beccar,Mitre,SOFSE,21.238,Operador,POINT (-58.52688839931464 -34.46041376212413),-58.5268884,-34.46041376
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e7a,78,Estación,Lezica y Torrezuri,Estación Lezica y Torrezuri,Sarmiento,SOFSE,62,Operador,POINT (-59.05698928865868 -34.584570496140564),-59.05698929,-34.5845705
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e7b,79,Estación,Luján,Estación Luján,Sarmiento,SOFSE,66.353,Operador,POINT (-59.10399109591096 -34.577355738595315),-59.1039911,-34.57735574
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e7c,80,Estación,Jáuregui,Estación Jáuregui,Sarmiento,SOFSE,73.32,Operador,POINT (-59.173565842663415 -34.600641674665034),-59.17356584,-34.60064167
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e7d,81,Estación,Olivera,Estación Olivera,Sarmiento,SOFSE,81.43,Operador,POINT (-59.25537328553436 -34.627973711126664),-59.25537329,-34.62797371
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e7e,83,Estación,Mercedes,Estación Mercedes,Sarmiento,SOFSE,98.031,Operador,POINT (-59.4324210840584 -34.65767692959678),-59.43242108,-34.65767693
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e7f,86,Estación,Bancalari,Estación Bancalari,Mitre,SOFSE,29.1,Operador,POINT (-58.60282608701271 -34.479754402821456),-58.60282609,-34.4797544
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e80,89,Estación,Pacheco,Estación Pacheco,Mitre,SOFSE,32.185,Operador,POINT (-58.61980555555544 -34.456041666666884),-58.61980556,-34.45604167
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e81,90,Estación,Benavidez,Estación Benavidez,Mitre,SOFSE,40.093,Operador,POINT (-58.68464585688687 -34.40924389882552),-58.68464586,-34.4092439
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e82,91,Estación,Maschwitz,Estación Maschwitz,Mitre,SOFSE,45.693,Operador,POINT (-58.7363712705107 -34.382972777713825),-58.73637127,-34.38297278
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e83,92,Estación,Escobar,Estación Escobar,Mitre,SOFSE,52.271,Operador,POINT (-58.795137074932434 -34.349576647564504),-58.79513707,-34.34957665
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e84,93,Estación,Río Lujan,Estación Río Lujan,Mitre,SOFSE,64.401,Operador,POINT (-58.89033611111116 -34.27798888888887),-58.89033611,-34.27798889
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e85,94,Estación,Ing. R. Otamendi,Estación Ing. R. Otamendi,Mitre,SOFSE,70.656,Operador,POINT (-58.89657947835244 -34.22212341368745),-58.89657948,-34.22212341
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e86,95,Estación,Campana,Estación Campana,Mitre,SOFSE,80.43,Operador,POINT (-58.95849357225295 -34.15675078318543),-58.95849357,-34.15675078
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e87,96,Estación,Zarate,Estación Zarate,Mitre,SOFSE,93,Operador,POINT (-59.03786944444432 -34.09783611111132),-59.03786944,-34.09783611
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e88,97,Estación,La Plata,Estación La Plata,Roca,SOFSE,52.606,Operador,POINT (-57.949636111111126 -34.90437500000006),-57.94963611,-34.904375
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e89,98,Empalme,Bancalari C,Empalme Bancalari C,Mitre,,,,POINT (-58.61234397991624 -34.47423502130569),-58.61234398,-34.47423502
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e8a,100,Estación,Saenz,Estación Saenz,Belgrano Sur,SOFSE,2.466,Operador,POINT (-58.415618923984724 -34.64910056757372),-58.41561892,-34.64910057
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e8b,101,Estación,Ing. S. Brian,Estación Ing. S. Brian,Roca,SOFSE,20.4,Operador,POINT (-58.57303522631646 -34.65807053794167),-58.57303523,-34.65807054
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e8c,102,Estación,San Justo,Estación San Justo,Roca,SOFSE,22.853,Operador,POINT (-58.55584393403905 -34.67379495823205),-58.55584393,-34.67379496
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e8d,103,Empalme,Empalme Sáenz,Empalme Empalme Sáenz,Belgrano Sur,,,,POINT (-58.417455933991626 -34.64902992367478),-58.41745593,-34.64902992
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e8e,105,Estación,La Tablada,Estación La Tablada,Roca,SOFSE,26.2,Operador,POINT (-58.52809361014623 -34.69304010774969),-58.52809361,-34.69304011
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e8f,109,Estación,Km 34,Estación Km 34,Roca,SOFSE,34.3,Operador,POINT (-58.46498531058512 -34.74350225825593),-58.46498531,-34.74350226
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e90,110,Estación,Santa Catalina,Estación Santa Catalina,Roca,SOFSE,39.049,Operador,POINT (-58.4374208822594 -34.780287601646215),-58.43742088,-34.7802876
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e91,112,Estación,Castello,Estación Castello,Belgrano Sur,SOFSE,15.833,Operador,POINT (-58.50600388842968 -34.709911295761316),-58.50600389,-34.7099113
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e92,113,Estación,José Mármol,Estación José Mármol,Roca,SOFSE,19.28,Operador,POINT (-58.38113897373299 -34.79193231332348),-58.38113897,-34.79193231
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e93,120,Estación,Carlos Spegazzini,Estación Carlos Spegazzini,Roca,SOFSE,41.32,Operador,POINT (-58.59385255689154 -34.90961409954279),-58.59385256,-34.9096141
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e94,255,Cabín,,,Roca,,18.433,,POINT (-58.40581752608864 -34.786589026927516),-58.40581753,-34.78658903
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e95,546,Estación,Leones,Estación Leones,FFCC Mitre,SOFSE,,,POINT (-62.29912993828995 -32.66498353677617),-62.29912994,-32.66498354
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e96,801,Estación,Gobernador Castro,Estación Gobernador Castro,FFCC Mitre,,,,POINT (-59.86888788699322 -33.65942664921401),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e97,803,,Tucumán,,FFCC Mitre,,,,POINT (-65.21101301539603 -26.820868543839644),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e98,804,,Alderetes,,FFCC Mitre,,,,POINT (-65.14571951462682 -26.818181096449468),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e99,806,Estación,Herrera,Estación Herrera,FFCC Mitre,,,,POINT (-63.06648735209793 -28.483079334973276),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e9a,807,,Arrufó,,FFCC Mitre,,,,POINT (-61.73141592665772 -30.233852988425134),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e9b,808,,Andino,,FFCC Mitre,,,,POINT (-60.87149830929958 -32.667566016467624),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e9c,809,Estación,San Lorenzo,Estación San Lorenzo,FFCC Mitre,,,,POINT (-60.74708915938377 -32.75330214296389),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e9d,121,Estación,Máximo Paz,Estación Máximo Paz,Roca,SOFSE,45.243,Operador,POINT (-58.620632755905056 -34.936369217302),-58.62063276,-34.93636922
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e9e,122,Estación,Vicente Casares,Estación Vicente Casares,Roca,SOFSE,49.012,Operador,POINT (-58.647687131081135 -34.96225570834311),-58.64768713,-34.96225571
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4e9f,123,Estación,Alejandro Petión,Estación Alejandro Petión,Roca,SOFSE,52.012,Operador,POINT (-58.67366782250785 -34.9771597773567),-58.67366782,-34.97715978
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ea0,127,Estación,Ezeiza,Estación Ezeiza,Roca,SOFSE,32.423,Operador,POINT (-58.52285029294014 -34.854045275643486),-58.52285029,-34.85404528
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ea1,128,Estación,El Jagüel,Estación El Jagüel,Roca,SOFSE,29.031,Operador,POINT (-58.496152336107265 -34.83326367574845),-58.49615234,-34.83326368
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ea2,129,Estación,Monte Grande,Estación Monte Grande,Roca,SOFSE,25.883,Operador,POINT (-58.469704574790846 -34.81443679877034),-58.46970457,-34.8144368
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ea3,130,Estación,Turdera,Estación Turdera,Roca,SOFSE,19.448,Operador,POINT (-58.40801757436202 -34.79505650328389),-58.40801757,-34.7950565
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ea4,131,Estación,Lavallol,Estación Lavallol,Roca,SOFSE,21.667,Operador,POINT (-58.43009757100766 -34.79714496592166),-58.43009757,-34.79714497
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ea5,132,Estación,Rafael Calzada,Estación Rafael Calzada,Roca,SOFSE,21.362,Operador,POINT (-58.35941162412338 -34.79673823297419),-58.35941162,-34.79673823
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ea6,136,Estación,Bosques,Estación Bosques,Roca,SOFSE,33.53,Operador,POINT (-58.23052797773592 -34.81944045517165),-58.23052798,-34.81944046
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ea7,138,Estación,Gutierrez,Estación Gutierrez,Roca,SOFSE,37.918,Operador,POINT (-58.1883276626349 -34.833163467808916),-58.18832766,-34.83316347
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ea8,141,Estación,Pda. Independencia,Estación Pda. Independencia,Belgrano Sur,SOFSE,27.362,Operador,POINT (-58.617111157200966 -34.76079288084516),-58.61711116,-34.76079288
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ea9,144,Estación,Pte. Illia,Estación Pte. Illia,Belgrano Sur,SOFSE,6.57,Operador,POINT (-58.448613275149064 -34.665336138773434),-58.44861328,-34.66533614
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eaa,145,Estación,Belgrano R,Estación Belgrano R,Mitre,SOFSE,9.319,Operador,POINT (-58.462343023952464 -34.56781311044609),-58.46234302,-34.56781311
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eab,146,Estación,Carranza,Estación Carranza,Mitre,SOFSE,6.48,Operador,POINT (-58.434652589538246 -34.57544336348467),-58.43465259,-34.57544336
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eac,147,Estación,Universidad de Luján,Estación Universidad de Luján,Sarmiento,SOFSE,64.9,Operador,POINT (-59.08718876456257 -34.57746915822935),-59.08718876,-34.57746916
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ead,545,Estación,Marcos Juárez,Estación Marcos Juárez,FFCC Mitre,SOFSE,,,POINT (-62.10607746746161 -32.69908247923182),-62.10607747,-32.69908248
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eae,143,Estación,Sol y Verde,Estación Sol y Verde,San Martín,SOFSE,44.55,Operador,POINT (-58.79876940674134 -34.50352164709808),-58.79876941,-34.50352165
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eaf,149,Estación,Dr. Albert Schweitzer,Estación Dr. Albert Schweitzer,Mitre,SOFSE,28,Operador,POINT (-58.57435304086595 -34.47205071164089),-58.57435304,-34.47205071
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eb0,150,Estación,El Talar,Estación El Talar,Mitre,SOFSE,33.139,Operador,POINT (-58.64602063253284 -34.462779475610326),-58.64602063,-34.46277948
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eb1,151,Estación,Lopez Camelo,Estación Lopez Camelo,Mitre,SOFSE,36.3,Operador,POINT (-58.67736085036052 -34.446906121546505),-58.67736085,-34.44690612
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eb2,158,Estación,Ranelagh,Estación Ranelagh,Roca,SOFSE,27.448,Operador,POINT (-58.20322560071415 -34.7893950149403),-58.2032256,-34.78939501
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eb3,160,Estación,Manuel Gonnet,Estación Manuel Gonnet,Roca,SOFSE,46.113,Operador,POINT (-58.01043888888892 -34.880144444444504),-58.01043889,-34.88014444
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eb4,161,Estación,Ringuelet,Estación Ringuelet,Roca,SOFSE,47.533,Operador,POINT (-57.99593333333336 -34.88145000000006),-57.99593333,-34.88145
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eb5,162,Estación,Villa Elisa,Estación Villa Elisa,Roca,SOFSE,39.333,Operador,POINT (-58.07504722222226 -34.849680555555615),-58.07504722,-34.84968056
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eb6,163,Estación,Plátanos,Estación Plátanos,Roca,SOFSE,27.765,Operador,POINT (-58.170936111111146 -34.78215000000006),-58.17093611,-34.78215
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eb7,164,Estación,Hudson,Estación Hudson,Roca,SOFSE,29.52,Operador,POINT (-58.155633333333355 -34.790827777777835),-58.15563333,-34.79082778
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eb8,165,Estación,Adrogué,Estación Adrogué,Roca,SOFSE,19.074,Operador,POINT (-58.39432500000017 -34.797849999999954),-58.394325,-34.79785
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eb9,166,Estación,Burzaco,Estación Burzaco,Roca,SOFSE,22.038,Operador,POINT (-58.39129444444461 -34.825058333333295),-58.39129444,-34.82505833
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eba,167,Estación,Longchamps,Estación Longchamps,Roca,SOFSE,25.975,Operador,POINT (-58.38715555555572 -34.859477777777734),-58.38715556,-34.85947778
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ebb,168,Estación,Glew,Estación Glew,Roca,SOFSE,29.2,Operador,POINT (-58.383872222222394 -34.88856388888885),-58.38387222,-34.88856389
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ebc,169,Estación,Guernica,Estación Guernica,Roca,SOFSE,32.513,Operador,POINT (-58.3806583333335 -34.917952777777735),-58.38065833,-34.91795278
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ebd,170,Estación,Alejandro Korn,Estación Alejandro Korn,Roca,SOFSE,39.53,Operador,POINT (-58.3739267276396 -34.98054839875924),-58.37392673,-34.9805484
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ebe,173,Estación,Lanús,Estación Lanús,Roca,SOFSE,9.004,Operador,POINT (-58.39076388888891 -34.707261111111464),-58.39076389,-34.70726111
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ebf,174,Estación,Banfield,Estación Banfield,Roca,SOFSE,13.078,Operador,POINT (-58.39567921393969 -34.743427372398195),-58.39567921,-34.74342737
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ec0,176,Estación,Villa Luro,Estación Villa Luro,Sarmiento,SOFSE,9.312,Operador,POINT (-58.50096878479257 -34.636123931802736),-58.50096878,-34.63612393
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ec1,177,Estación,Plaza Constitución,Estación Plaza Constitución,Roca,SOFSE,0,Operador,POINT (-58.380498863459934 -34.62868310904906),-58.38049886,-34.62868311
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ec2,178,Estación,Sarandí,Estación Sarandí,Roca,SOFSE,7.769,Operador,POINT (-58.345577777777805 -34.678783333333385),-58.34557778,-34.67878333
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ec3,179,Estación,Villa Domínico,Estación Villa Domínico,Roca,SOFSE,9.996,Operador,POINT (-58.325441666666705 -34.69154166666673),-58.32544167,-34.69154167
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ec4,810,Apeadero,Maquinista Ricardo Cal,Apeadero Maquinista Ricardo Cal,Sarmiento,,,,POINT (-58.80820386048935 -34.74484814075072),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ec5,53,Estación,Morón,Estación Morón,Sarmiento,SOFSE,20.236,Operador,POINT (-58.61905298975539 -34.64822380084579),-58.61905299,-34.6482238
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ec6,55,Estación,Castelar,Estación Castelar,Sarmiento,SOFSE,22.339,Operador,POINT (-58.64163942552925 -34.651846819624566),-58.64163943,-34.65184682
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ec7,180,Estación,Wilde,Estación Wilde,Roca,SOFSE,11.399,Operador,POINT (-58.31116153917474 -34.697483598141034),-58.31116154,-34.6974836
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ec8,181,Estación,Don Bosco,Estación Don Bosco,Roca,SOFSE,13,Operador,POINT (-58.29619821392062 -34.703419513180684),-58.29619821,-34.70341951
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ec9,182,Estación,Bernal,Estación Bernal,Roca,SOFSE,14.578,Operador,POINT (-58.2804886808907 -34.70941834011982),-58.28048868,-34.70941834
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eca,183,Estación,Quilmes,Estación Quilmes,Roca,SOFSE,17.249,Operador,POINT (-58.26079444444447 -34.72426944444451),-58.26079444,-34.72426944
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ecb,184,Estación,Ezpeleta,Estación Ezpeleta,Roca,SOFSE,21.23,Operador,POINT (-58.23431944444448 -34.75188333333339),-58.23431944,-34.75188333
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ecc,185,Estación,Berazategui,Estación Berazategui,Roca,SOFSE,23.799,Operador,POINT (-58.208822222222246 -34.764030555555614),-58.20882222,-34.76403056
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ecd,188,Estación,Gerli,Estación Gerli,Roca,SOFSE,6.563,Operador,POINT (-58.38277500000002 -34.68593333333367),-58.382775,-34.68593333
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ece,190,Estación,Remedios de Escalada,Estación Remedios de Escalada,Roca,SOFSE,11.231,Operador,POINT (-58.393602777777815 -34.726802777777685),-58.39360278,-34.72680278
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ecf,191,Empalme,Empalme a Talleres,Empalme Empalme a Talleres,Roca,,,,POINT (-58.39415277777782 -34.73318055555555),-58.39415278,-34.73318056
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ed0,192,Estación,Cañuelas,Estación Cañuelas,Roca,SOFSE,64.094,Operador,POINT (-58.754505555555845 -35.05933611111109),-58.75450556,-35.05933611
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ed1,199,Estación,Km. 12,Estación Km. 12,Belgrano Sur,SOFSE,,Operador,POINT (-58.50600872511196 -34.70996824272464),-58.50600873,-34.70996824
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ed2,200,Estación,Aldo Bonzi,Estación Aldo Bonzi,Belgrano Sur,SOFSE,13.543,Operador,POINT (-58.51438929275727 -34.71076574782167),-58.51438929,-34.71076575
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ed3,201,Estación,M. S. de Mendeville,Estación M. S. de Mendeville,Belgrano Sur,SOFSE,14.438,Operador,POINT (-58.52454505599225 -34.71237228919958),-58.52454506,-34.71237229
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ed4,186,,Hipólito Yrigoyen, Hipólito Yrigoyen,,SOFSE,2.825,Operador,POINT (-58.378716666666676 -34.65357222222218),-58.37871667,-34.65357222
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ed5,133,Estación,Ing. Dante Ardigó,Estación Ing. Dante Ardigó,Roca,SOFSE,26.7,Operador,POINT (-58.302718226309125 -34.80891109256752),-58.30271823,-34.80891109
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ed6,134,Estación,Florencio Varela,Estación Florencio Varela,Roca,SOFSE,29.373,Operador,POINT (-58.27469412822163 -34.811010096139555),-58.27469413,-34.8110101
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ed7,135,Estación,Estanislao Zeballos,Estación Estanislao Zeballos,Roca,SOFSE,30.92,Operador,POINT (-58.25665559152873 -34.8109786306096),-58.25665559,-34.81097863
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ed8,140,Estación,Claypole,Estación Claypole,Roca,SOFSE,23.35,Operador,POINT (-58.33790536986354 -34.801128831799886),-58.33790537,-34.80112883
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ed9,171,Estación,Temperley,Estación Temperley,Roca,SOFSE,16.705,Operador,POINT (-58.39668015826608 -34.77571433878067),-58.39668016,-34.77571434
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eda,811,Apeadero,Villars,Apeadero Villars,Belgrano Sur,Trenes Argentinos Cargas y LogÇðstica,59.586,,POINT (-58.93871077014111 -34.82882518879525),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4edb,812,,Lozano,,Belgrano Sur,,,,POINT (-59.05383095215684 -34.85109413536424),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4edc,539,Estación,Saavedra,Estación Saavedra,FFCC Roca no operativo,SOFSE,,,POINT (-62.35209793564588 -37.76337313908199),-62.35209794,-37.76337314
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4edd,540,Estación,General Lamadrid,Estación General Lamadrid,FFCC Roca no operativo,SOFSE,,,POINT (-61.2585229738505 -37.25051488565418),-61.25852297,-37.25051489
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ede,541,Estación,Coronel Suárez,Estación Coronel Suárez,FFCC Roca no operativo,SOFSE,,,POINT (-61.932058671676394 -37.46070641786452),-61.93205867,-37.46070642
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4edf,542,Estación,Pigüe,Estación Pigüe,FFCC Roca no operativo,SOFSE,,,POINT (-62.41159035544369 -37.6010302200808),-62.41159036,-37.60103022
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ee0,543,Estación,Tornquist,Estación Tornquist,FFCC Roca no operativo,SOFSE,,,POINT (-62.22951111183838 -38.10167499593655),-62.22951111,-38.101675
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ee1,6,Estación,José Leon Suarez,Estación José Leon Suarez,Mitre,SOFSE,22.523,Operador,POINT (-58.57566689916364 -34.53499652284081),-58.5756669,-34.53499652
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ee2,7,Estación,Dr. L. M. Drago,Estación Dr. L. M. Drago,Mitre,SOFSE,10.966,Operador,POINT (-58.47892239679345 -34.568359442560876),-58.4789224,-34.56835944
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ee3,50,Cabín,M. J. Haedo Cabina Oeste,Cabín M. J. Haedo Cabina Oeste,Sarmiento,,,,POINT (-58.61162461279194 -34.64710936210335),-58.61162461,-34.64710936
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ee4,704,Apeadero,Río Tapenaga,Apeadero Río Tapenaga,FFCC Belgrano,SOFSE,,,POINT (-59.66158072054348 -27.56505200840186),-59.66158072,-27.56505201
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ee5,705,Apeadero,Cote Lai,Apeadero Cote Lai,FFCC Belgrano,SOFSE,,,POINT (-59.57425669616629 -27.52730610169486),-59.5742567,-27.5273061
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ee6,709,Apeadero,Desvío Km. 474,Apeadero Desvío Km. 474,FFCC Belgrano,SOFSE,,,POINT (-59.70982990451206 -27.585795386830373),-59.7098299,-27.58579539
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ee7,710,Apeadero,Km. 501,Apeadero Km. 501,FFCC Belgrano,SOFSE,,,POINT (-59.491941392504835 -27.45925081428257),-59.49194139,-27.45925081
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ee8,817,Estacion,La Sabana,Estacion La Sabana,FFCC Belgrano,SOFSE,,,POINT (-59.9372389447434 -27.871338670419448),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ee9,818,Estacion,Los Amores,Estacion Los Amores,FFCC Belgrano,SOFSE,,,POINT (-59.98026749453843 -28.10144745250359),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eea,714,Apeadero,Sarmiento,Apeadero Sarmiento,FFCC Belgrano,SOFSE,,,POINT (-59.035456488862316 -27.420896580139335),-59.03545649,-27.42089658
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eeb,715,Apeadero,Güemes,Apeadero Güemes,FFCC Belgrano,SOFSE,,,POINT (-59.029598156975695 -27.42429188054513),-59.02959816,-27.42429188
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eec,813,Apeadero,Puerto Tirol,Apeadero Puerto Tirol,FFCC Belgrano,,,,POINT (-59.0892729529038 -27.374060177835894),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eed,814,Apeadero,Aborigen,Apeadero Aborigen,FFCC Belgrano,,,,POINT (-59.08200435633424 -27.391987134108277),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eee,815,Apeadero,Los Aromos,Apeadero Los Aromos,FFCC Belgrano,,,,POINT (-59.08511705993643 -27.389240630929873),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eef,816,Apeadero,Anunciacion,Apeadero Anunciacion,FFCC Belgrano,,,,POINT (-59.05503080406629 -27.410925959972687),,
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ef0,58,Estación,San Antonio de Padua,Estación San Antonio de Padua,Sarmiento,SOFSE,27.803,Operador,POINT (-58.69888368028017 -34.66550559372223),-58.69888368,-34.66550559
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ef1,62,Estación,Paso del Rey,Estación Paso del Rey,Sarmiento,SOFSE,33.718,Operador,POINT (-58.76201868211097 -34.65825775946924),-58.76201868,-34.65825776
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ef2,41,Estación,Floresta,Estación Floresta,Sarmiento,SOFSE,7.297,Operador,POINT (-58.48092448944513 -34.63242220227313),-58.48092449,-34.6324222
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ef3,56,Estación,Ituzaingó,Estación Ituzaingó,Sarmiento,SOFSE,24.755,Operador,POINT (-58.66689546660633 -34.659807620372085),-58.66689547,-34.65980762
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ef4,68,Estación,Francisco Álvarez,Estación Francisco Álvarez,Sarmiento,SOFSE,42.995,Operador,POINT (-58.85529610488141 -34.63223414327694),-58.8552961,-34.63223414
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ef5,4,Estación,Malaver,Estación Malaver,Mitre,SOFSE,18.841,Operador,POINT (-58.54785353420419 -34.557435308928376),-58.54785353,-34.55743531
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ef6,5,Estación,Chilavert,Estación Chilavert,Mitre,SOFSE,21.282,Operador,POINT (-58.56694067387004 -34.5421696046724),-58.56694067,-34.5421696
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ef7,11,Estación,Coghlan,Estación Coghlan,Mitre,SOFSE,10.4,Operador,POINT (-58.47519175721897 -34.56528774613794),-58.47519176,-34.56528775
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ef8,39,Cabín,Caballito (Cabina Oeste),Cabín Caballito (Cabina Oeste),Sarmiento,,,,POINT (-58.45340592620268 -34.62336764114189),-58.45340593,-34.62336764
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ef9,20,Estación,Av. Maipú,Estación Av. Maipú,Mitre,SOFSE,0,Operador,POINT (-58.48805634848892 -34.513565929231014),-58.48805635,-34.51356593
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4efa,22,Estación,Libertador,Estación Libertador,Mitre,SOFSE,1.435,Operador,POINT (-58.48197047799704 -34.50202497236412),-58.48197048,-34.50202497
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4efb,23,Estación,J. Anchorena,Estación J. Anchorena,Mitre,SOFSE,2.934,Operador,POINT (-58.48127507479585 -34.489012841041585),-58.48127507,-34.48901284
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4efc,189,Empalme,Empalme a Talleres,Empalme Empalme a Talleres,Roca,,,,POINT (-58.392730555555666 -34.71920833333323),-58.39273056,-34.71920833
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4efd,1,Estación,San Martin,Estación San Martin,Mitre,SOFSE,16.55,Operador,POINT (-58.53165277777826 -34.57367499999977),-58.53165278,-34.573675
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4efe,35,Estación,Zelaya,Estación Zelaya,Mitre,SOFSE,56.193,Operador,POINT (-58.86932932095535 -34.37014148183165),-58.86932932,-34.37014148
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4eff,36,Estación,Los Cardales,Estación Los Cardales,Mitre,SOFSE,67.6,Operador,POINT (-58.98742484910216 -34.33087159440235),-58.98742485,-34.33087159
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f00,47,Estación,Virreyes,Estación Virreyes,Mitre,SOFSE,23.813,Operador,POINT (-58.55051610629756 -34.45076258343393),-58.55051611,-34.45076258
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f01,8,Estación,Gral. Urquiza,Estación Gral. Urquiza,Mitre,SOFSE,12.2,Operador,POINT (-58.48791522109579 -34.57471894674531),-58.48791522,-34.57471895
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f02,9,Estación,Pueyrredon,Estación Pueyrredon,Mitre,SOFSE,13.673,Operador,POINT (-58.501790547946406 -34.580477849125124),-58.50179055,-34.58047785
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f03,14,Estación,Florida,Estación Florida,Mitre,SOFSE,15.1,Operador,POINT (-58.494454201908844 -34.5303263517138),-58.4944542,-34.53032635
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f04,15,Estación,Dr. Cetrángolo,Estación Dr. Cetrángolo,Mitre,SOFSE,15.86,Operador,POINT (-58.494147205230774 -34.5231288200025),-58.49414721,-34.52312882
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f05,51,Empalme,Empalme Maldonado,Empalme Empalme Maldonado,Mitre,,4.6,,POINT (-58.413340654746236 -34.56757788953097),-58.41334065,-34.56757789
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f06,70,Estación,Las Malvinas,Estación Las Malvinas,Sarmiento,SOFSE,49.1,Operador,POINT (-58.921787563286166 -34.61616195128908),-58.92178756,-34.61616195
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f07,72,Estación,Gral. Rodríguez,Estación Gral. Rodríguez,Sarmiento,SOFSE,52.057,Operador,POINT (-58.9530938068155 -34.60887961776577),-58.95309381,-34.60887962
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f08,3,Estación,Villa Ballester,Estación Villa Ballester,Mitre,SOFSE,19.925,Operador,POINT (-58.55608130899839 -34.550913641094404),-58.55608131,-34.55091364
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f09,25,Estación,San Isidro R,Estación San Isidro R,Mitre,SOFSE,6.903,Operador,POINT (-58.50843608957171 -34.46534033170614),-58.50843609,-34.46534033
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f0a,26,Estación,Punta Chica,Estación Punta Chica,Mitre,SOFSE,9.052,Operador,POINT (-58.523877599331506 -34.45052313046049),-58.5238776,-34.45052313
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f0b,118,Estación,Tristán Suarez,Estación Tristán Suarez,Roca,SOFSE,38.089,Operador,POINT (-58.56763478248225 -34.88934887031695),-58.56763478,-34.88934887
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f0c,119,Estación,Unión Ferroviaria,Estación Unión Ferroviaria,Roca,SOFSE,35.012,Operador,POINT (-58.5432554220963 -34.87018479611106),-58.54325542,-34.8701848
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f0d,124,Estación,Kloosterman,Estación Kloosterman,Roca,SOFSE,53.704,Operador,POINT (-58.692779181913906 -34.98802655960638),-58.69277918,-34.98802656
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f0e,125,Estación,Ricardo Levene,Estación Ricardo Levene,Roca,SOFSE,58.781,Operador,POINT (-58.72976604122963 -35.02712717883035),-58.72976604,-35.02712718
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f0f,126,Estación,Luis Guillón,Estación Luis Guillón,Roca,SOFSE,23.523,Operador,POINT (-58.44864060803634 -34.803305238859295),-58.44864061,-34.80330524
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f10,104,Estación,Soldati,Estación Soldati,Belgrano Sur,SOFSE,5.733,Operador,POINT (-58.44093678348836 -34.6622176205901),-58.44093678,-34.66221762
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f11,106,Estación,Lugano,Estación Lugano,Belgrano Sur,SOFSE,9.55,Operador,POINT (-58.477064215511334 -34.67723486260167),-58.47706422,-34.67723486
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f12,107,Estación,Villa Madero,Estación Villa Madero,Belgrano Sur,SOFSE,11.157,Operador,POINT (-58.492399830430266 -34.68406594249928),-58.49239983,-34.68406594
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f13,108,Estación,M. Fournier,Estación M. Fournier,Belgrano Sur,SOFSE,12.695,Operador,POINT (-58.50756427141431 -34.690200990271286),-58.50756427,-34.69020099
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f14,202,Estación,J. Ingenieros,Estación J. Ingenieros,Belgrano Sur,SOFSE,15.68,Operador,POINT (-58.53723458464277 -34.71073701962289),-58.53723458,-34.71073702
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f15,203,Estación,J. Villegas,Estación J. Villegas,Belgrano Sur,SOFSE,17.044,Operador,POINT (-58.551838529390686 -34.70896291566924),-58.55183853,-34.70896292
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f16,204,Estación,Palermo,Estación Palermo,San Martín,SOFSE,6.343,Operador,POINT (-58.426704414848736 -34.579073087424526),-58.42670441,-34.57907309
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f17,2,Estación,San Andres,Estación San Andres,Mitre,SOFSE,17.925,Operador,POINT (-58.54055175334619 -34.56367974026541),-58.54055175,-34.56367974
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f18,82,Estación,Gowland,Estación Gowland,Sarmiento,SOFSE,90.88,Operador,POINT (-59.352756295352506 -34.647825621989355),-59.3527563,-34.64782562
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f19,111,Estación,Tapiales,Estación Tapiales,Belgrano Sur,SOFSE,14.671,Operador,POINT (-58.511643441255984 -34.70237465547931),-58.51164344,-34.70237466
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f1a,148,Estación,Hospital Español,Estación Hospital Español,Roca,SOFSE,41.987,Operador,POINT (-58.40728701116117 -34.78626739697275),-58.40728701,-34.7862674
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f1b,152,Estación,Ing. Pablo Marín,Estación Ing. Pablo Marín,Sarmiento,SOFSE,46.04,Operador,POINT (-58.89347422729393 -34.622748149603794),-58.89347423,-34.62274815
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f1c,154,Estación,Juan XXIII,Estación Juan XXIII,Roca,SOFSE,37.931,Operador,POINT (-58.444226870800755 -34.771191269006074),-58.44422687,-34.77119127
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f1d,155,Estación,Sourigues,Estación Sourigues,Roca,SOFSE,29.585,Operador,POINT (-58.21396573295371 -34.80884421243672),-58.21396573,-34.80884421
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f1e,156,Estación,Villa España,Estación Villa España,Roca,SOFSE,25.582,Operador,POINT (-58.194863812794146 -34.77421844915255),-58.19486381,-34.77421845
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f1f,157,Estación,Tolosa,Estación Tolosa,Roca,SOFSE,50.555,Operador,POINT (-57.967995089432584 -34.89088366221698),-57.96799509,-34.89088366
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f20,172,Cruce,Cruce a nivel FCSM / FCGU,Cruce Cruce a nivel FCSM / FCGU,San Martín,,,,POINT (-58.639945489494224 -34.58714403935548),-58.63994549,-34.58714404
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f21,114,Estación,Ing. Querandi,Estación Ing. Querandi,Belgrano Sur,SOFSE,18.455,Operador,POINT (-58.53047922892854 -34.722290963515405),-58.53047923,-34.72229096
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f22,115,Estación,Laferrere,Estación Laferrere,Belgrano Sur,SOFSE,24.301,Operador,POINT (-58.584342006125226 -34.75066618609727),-58.58434201,-34.75066619
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f23,116,Estación,M. E. Duarte,Estación M. E. Duarte,Belgrano Sur,SOFSE,25.925,Operador,POINT (-58.600471399503206 -34.756006330925366),-58.6004714,-34.75600633
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f24,215,Estación,Saenz Peña,Estación Saenz Peña,FFCC San Martín,SOFSE,16.378,Operador,POINT (-58.52795383507418 -34.60312741156937),-58.52795384,-34.60312741
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f25,117,Estación,G. Catán,Estación G. Catán,Belgrano Sur,SOFSE,30.53,Operador,POINT (-58.646744966247894 -34.77160939075209),-58.64674497,-34.77160939
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f26,139,Estación,Santa Sofía,Estación Santa Sofía,Roca,SOFSE,35.248,Operador,POINT (-58.2137229126673 -34.82496170950153),-58.21372291,-34.82496171
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f27,159,Estación,City Bell,Estación City Bell,Roca,SOFSE,42.886,Operador,POINT (-58.042174196951166 -34.865830989977795),-58.0421742,-34.86583099
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f28,205,Estación,I. Casanova,Estación I. Casanova,Belgrano Sur,SOFSE,20.318,Operador,POINT (-58.58743800067037 -34.70451248601488),-58.587438,-34.70451249
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f29,206,Empalme,Empalme Córdoba,Empalme Empalme Córdoba,San Martín,,,,POINT (-58.43708902516806 -34.58801086612681),-58.43708903,-34.58801087
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f2a,207,Estación,R. Castillo,Estación R. Castillo,Belgrano Sur,SOFSE,23.919,Operador,POINT (-58.62628961857171 -34.69964898542534),-58.62628962,-34.69964899
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f2b,208,Estación,Villa Crespo,Estación Villa Crespo,San Martín,SOFSE,8.679,Operador,POINT (-58.447572692846734 -34.5930486239874),-58.44757269,-34.59304862
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f2c,209,Estación,M. Gomez,Estación M. Gomez,Belgrano Sur,SOFSE,25.865,Operador,POINT (-58.64749283317655 -34.69698430722964),-58.64749283,-34.69698431
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f2d,210,Estación,La Paternal,Estación La Paternal,San Martín,SOFSE,10.651,Operador,POINT (-58.46721722151123 -34.59709074627385),-58.46721722,-34.59709075
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f2e,211,Estación,Libertad,Estación Libertad,Belgrano Sur,SOFSE,29.512,Operador,POINT (-58.68649716586225 -34.69210468511373),-58.68649717,-34.69210469
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f2f,212,Estación,M. C. Gral. Belgrano,Estación M. C. Gral. Belgrano,Belgrano Sur,SOFSE,33.995,Operador,POINT (-58.73090930695625 -34.70876301374771),-58.73090931,-34.70876301
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f30,213,Estación,Villa del Parque,Estación Villa del Parque,San Martín,SOFSE,13.275,Operador,POINT (-58.49476035011107 -34.60137505896632),-58.49476035,-34.60137506
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f31,214,Estación,Devoto,Estación Devoto,San Martín,SOFSE,14.989,Operador,POINT (-58.51280252858115 -34.602562072319586),-58.51280253,-34.60256207
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f32,216,Estación,Santos Lugares,Estación Santos Lugares,San Martín,SOFSE,17.569,Operador,POINT (-58.54095912581803 -34.60368340287996),-58.54095913,-34.6036834
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f33,217,Estación,Caseros,Estación Caseros,San Martín,SOFSE,19.739,Operador,POINT (-58.564524395996884 -34.60452236732519),-58.5645244,-34.60452237
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f34,218,Estación,El Palomar,Estación El Palomar,San Martín,SOFSE,22.6,Operador,POINT (-58.596136806141324 -34.60494795524248),-58.59613681,-34.60494796
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f35,219,Estación,Hurlingham,Estación Hurlingham,San Martín,SOFSE,26.384,Operador,POINT (-58.63237542823251 -34.59109537970391),-58.63237543,-34.59109538
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f36,220,Estación,W. C. Morris,Estación W. C. Morris,San Martín,SOFSE,29,Operador,POINT (-58.656475161748986 -34.578519421756255),-58.65647516,-34.57851942
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f37,221,Estación,Bella Vista,Estación Bella Vista,San Martín,SOFSE,32.1,Operador,POINT (-58.684655929696845 -34.56380439193272),-58.68465593,-34.56380439
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f38,222,Estación,Muñiz,Estación Muñiz,San Martín,SOFSE,34.295,Operador,POINT (-58.70347294062662 -34.551250478127145),-58.70347294,-34.55125048
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f39,296,Estación,Lourdes,Estación Lourdes,Urquiza,Metrovías,8.844,Operador,POINT (-58.54700936737069 -34.59375347481692),-58.54700937,-34.59375347
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f3a,574,Estación,Vivoratá,Estación Vivoratá,FFCC Roca,SOFSE,,,POINT (-57.66927163517829 -37.66379261574234),-57.66927164,-37.66379262
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f3b,575,Estación,Coronel Vidal,Estación Coronel Vidal,FFCC Roca,SOFSE,,,POINT (-57.72853805952331 -37.45434219982414),-57.72853806,-37.4543422
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f3c,223,Estación,San Miguel,Estación San Miguel,San Martín,SOFSE,35.608,Operador,POINT (-58.713243670410264 -34.54418336628516),-58.71324367,-34.54418337
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f3d,224,Estación,Jose C. Paz,Estación Jose C. Paz,San Martín,SOFSE,39.955,Operador,POINT (-58.750876997907255 -34.51903604373895),-58.750877,-34.51903604
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f3e,225,Estación,Pte. Derqui,Estación Pte. Derqui,San Martín,SOFSE,48.64,Operador,POINT (-58.83920252209604 -34.49079695441003),-58.83920252,-34.49079695
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f3f,226,Estación,Villa Astolfi,Estación Villa Astolfi,San Martín,SOFSE,52.348,Operador,POINT (-58.87699197860994 -34.47871352782209),-58.87699198,-34.47871353
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f40,227,Estación,Pilar,Estación Pilar,San Martín,SOFSE,55.4,Operador,POINT (-58.908263558209946 -34.46863943074537),-58.90826356,-34.46863943
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f41,228,Estación,Retiro,Estación Retiro,San Martín,SOFSE,0,Operador,POINT (-58.37351079974269 -34.58927432492359),-58.3735108,-34.58927432
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f42,229,Estación,Lobos,Estación Lobos,Sarmiento,SOFSE,101.694,Operador,POINT (-59.09282787828979 -35.184771770090734),-59.09282788,-35.18477177
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f43,230,Estación,Agustin Ferrari,Estación Agustin Ferrari,Sarmiento,SOFSE,37.95,Operador,POINT (-58.779427067415874 -34.706048533539715),-58.77942707,-34.70604853
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f44,231,Estación,Mariano Acosta,Estación Mariano Acosta,Sarmiento,SOFSE,40.207,Operador,POINT (-58.79301413375676 -34.7243871811011),-58.79301413,-34.72438718
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f45,232,Estación,Marcos Paz,Estación Marcos Paz,Sarmiento,SOFSE,47.9,Operador,POINT (-58.83658002566293 -34.783089490607615),-58.83658003,-34.78308949
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f46,233,Estación,Zamudio,Estación Zamudio,Sarmiento,SOFSE,57.6,Operador,POINT (-58.8922228799743 -34.85788521353635),-58.89222288,-34.85788521
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f47,234,Estación,Hornos,Estación Hornos,Sarmiento,SOFSE,61.999,Operador,POINT (-58.91787815756516 -34.89232227169896),-58.91787816,-34.89232227
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f48,175,Estación,Lomas de Zamora,Estación Lomas de Zamora,Roca,SOFSE,15.055,Operador,POINT (-58.39755555555558 -34.760616666667),-58.39755556,-34.76061667
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f49,235,Estación,Las Heras,Estación Las Heras,Sarmiento,SOFSE,66.792,Operador,POINT (-58.94452439491405 -34.928053976854486),-58.94452439,-34.92805398
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f4a,236,Estación,Speratti,Estación Speratti,Sarmiento,SOFSE,76.3,Operador,POINT (-58.999776097106555 -35.00201571047716),-58.9997761,-35.00201571
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f4b,237,Estación,Zapiola,Estación Zapiola,Sarmiento,SOFSE,83.673,Operador,POINT (-59.04199588821927 -35.05842647995599),-59.04199589,-35.05842648
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f4c,238,Cabín,Empalme Lobos,Cabín Empalme Lobos,Sarmiento,,90.6,,POINT (-59.08987045830999 -35.15113244868708),-59.08987046,-35.15113245
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f4d,239,Estación,Manzanares,Estación Manzanares,San Martín,SOFSE,64.813,Operador,POINT (-59.00631408951003 -34.45183063934406),-59.00631409,-34.45183064
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f4e,240,Estación,Dr. Cabred,Estación Dr. Cabred,San Martín,SOFSE,72.308,Operador,POINT (-59.0756950855756 -34.48789694137924),-59.07569509,-34.48789694
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f4f,241,Empalme,Empalme Maldonado,Empalme Empalme Maldonado,Mitre,,4.6,,POINT (-58.413340654746754 -34.567577889531016),-58.41334065,-34.56757789
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f50,242,Empalme,Empalme Maldonado,Empalme Empalme Maldonado,Mitre,,4.6,,POINT (-58.413340654746925 -34.56757788953075),-58.41334065,-34.56757789
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f51,244,Estación,Merlo,Estación Merlo,Sarmiento,SOFSE,30.488,Operador,POINT (-58.727799546762384 -34.66454748877668),-58.72779955,-34.66454749
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f52,245,Estación,Moreno,Estación Moreno,Sarmiento,SOFSE,36.382,Operador,POINT (-58.789699236282 -34.650554096208914),-58.78969924,-34.6505541
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f53,247,Estación,Darío Santillán y Maximiliano Kosteki,Estación Darío Santillán y Maximiliano Kosteki,Roca,SOFSE,3.829,Operador,POINT (-58.376497222222234 -34.661958333333445),-58.37649722,-34.66195833
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f54,250,Empalme,Empalme Maldonado,Empalme Empalme Maldonado,Mitre,,4.6,,POINT (-58.413340654746705 -34.56757788953096),-58.41334065,-34.56757789
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f55,258,Estación,Agustín De Elía,Estación Agustín De Elía,Roca,SOFSE,28.922,Operador,POINT (-58.50607911920097 -34.70978166544358),-58.50607912,-34.70978167
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f56,259,Estación,Carapachay,Estación Carapachay,Belgrano Norte,Ferrovías,17.82,Operador,POINT (-58.537383647784296 -34.528790061348325),-58.53738365,-34.52879006
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f57,260,Estación,Ing. P. Nogués,Estación Ing. P. Nogués,Belgrano Norte,Ferrovías,34.431,Operador,POINT (-58.706274721480085 -34.493778601541266),-58.70627472,-34.4937786
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f58,261,Estación,Grand Bourg,Estación Grand Bourg,Belgrano Norte,Ferrovías,36.435,Operador,POINT (-58.72514557003455 -34.485484528907435),-58.72514557,-34.48548453
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f59,262,Estación,Tierras Altas,Estación Tierras Altas,Belgrano Norte,Ferrovías,38,Operador,POINT (-58.73947067714764 -34.478986476034805),-58.73947068,-34.47898648
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f5a,263,Estación,M. Alberti,Estación M. Alberti,Belgrano Norte,Ferrovías,41.735,Operador,POINT (-58.77566316985275 -34.462812667820295),-58.77566317,-34.46281267
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f5b,264,Estación,Ciudad Universitaria,Estación Ciudad Universitaria,Belgrano Norte,Ferrovías,8.6,Operador,POINT (-58.4479164619892 -34.54298189785647),-58.44791646,-34.5429819
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f5c,265,Estación,Retiro,Estación Retiro,Belgrano Norte,Ferrovías,0,Operador,POINT (-58.37419112043321 -34.590139207151225),-58.37419112,-34.59013921
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f5d,266,Estación,M. M. Padilla,Estación M. M. Padilla,Belgrano Norte,Ferrovías,14.043,Operador,POINT (-58.50062172905402 -34.543454678448235),-58.50062173,-34.54345468
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f5e,267,Estación,Florida,Estación Florida,Belgrano Norte,Ferrovías,15.349,Operador,POINT (-58.51314331103174 -34.537088650600126),-58.51314331,-34.53708865
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f5f,268,Estación,Munro,Estación Munro,Belgrano Norte,Ferrovías,16.504,Operador,POINT (-58.52362401234933 -34.53178278509638),-58.52362401,-34.53178279
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f60,269,Estación,Villa Adelina,Estación Villa Adelina,Belgrano Norte,Ferrovías,18.832,Operador,POINT (-58.54622887607259 -34.523723207927794),-58.54622888,-34.52372321
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f61,270,Estación,Bulogne Sur Mer,Estación Bulogne Sur Mer,Belgrano Norte,Ferrovías,21.259,Operador,POINT (-58.565551123271675 -34.508471071081175),-58.56555112,-34.50847107
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f62,271,Estación,Vice alte E. Montes,Estación Vice alte E. Montes,Belgrano Norte,Ferrovías,26.313,Operador,POINT (-58.62006804528918 -34.50411161628722),-58.62006805,-34.50411162
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f63,272,Estación,Don Torcuato,Estación Don Torcuato,Belgrano Norte,Ferrovías,28.339,Operador,POINT (-58.641898958158805 -34.502672999999874),-58.64189896,-34.502673
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f64,273,Estación,A. Sourdeaux,Estación A. Sourdeaux,Belgrano Norte,Ferrovías,30.679,Operador,POINT (-58.666271966144315 -34.502962265491036),-58.66627197,-34.50296227
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f65,274,Estación,Villa de Mayo,Estación Villa de Mayo,Belgrano Norte,Ferrovías,31.906,Operador,POINT (-58.680724184874556 -34.503355884542714),-58.68072418,-34.50335588
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f66,275,Estación,Los Polvorines,Estación Los Polvorines,Belgrano Norte,Ferrovías,33.294,Operador,POINT (-58.69460879101456 -34.49898362954879),-58.69460879,-34.49898363
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f67,276,Estación,Tortuguitas,Estación Tortuguitas,Belgrano Norte,Ferrovías,39.897,Operador,POINT (-58.75799095027797 -34.470730817270955),-58.75799095,-34.47073082
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f68,277,Estación,Villa Rosa,Estación Villa Rosa,Belgrano Norte,Ferrovías,51.944,Operador,POINT (-58.87153679181568 -34.41657424493533),-58.87153679,-34.41657424
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f69,278,Estación,Del Viso,Estación Del Viso,Belgrano Norte,Ferrovías,43.888,Operador,POINT (-58.796213684391034 -34.4536478349292),-58.79621368,-34.45364783
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f6a,279,Estación,A. del Valle,Estación A. del Valle,Belgrano Norte,Ferrovías,11.709,Operador,POINT (-58.47790050675024 -34.53741547272999),-58.47790051,-34.53741547
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f6b,280,Estación,Ej. de los Andes,Estación Ej. de los Andes,Urquiza,Metrovías,17.946,Operador,POINT (-58.64039136604654 -34.57987247582108),-58.64039137,-34.57987248
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f6c,281,Estación,J.B. de La Salle,Estación J.B. de La Salle,Urquiza,Metrovías,18.794,Operador,POINT (-58.645291666666644 -34.57352777777796),-58.64529167,-34.57352778
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f6d,282,Estación,Sgto. Barrufaldi,Estación Sgto. Barrufaldi,Urquiza,Metrovías,20.599,Operador,POINT (-58.658961111111104 -34.56321944444463),-58.65896111,-34.56321944
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f6e,283,Estación,Cap. Lozano,Estación Cap. Lozano,Urquiza,Metrovías,21.787,Operador,POINT (-58.66958888888889 -34.55547500000017),-58.66958889,-34.555475
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f6f,284,Estación,Tte. Agneta,Estación Tte. Agneta,Urquiza,Metrovías,22.874,Operador,POINT (-58.678672222222204 -34.54890277777797),-58.67867222,-34.54890278
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f70,285,Estación,Cpo. de Mayo,Estación Cpo. de Mayo,Urquiza,Metrovías,23.805,Operador,POINT (-58.686099999999975 -34.54350833333351),-58.6861,-34.54350833
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f71,286,Estación,Sto. Cabral,Estación Sto. Cabral,Urquiza,Metrovías,24.93,Operador,POINT (-58.69523055555553 -34.53693055555574),-58.69523056,-34.53693056
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f72,287,Estación,General Lemos,Estación General Lemos,Urquiza,Metrovías,25.612,Operador,POINT (-58.7008972222222 -34.53284722222241),-58.70089722,-34.53284722
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f73,288,Estación,Federico Lacroze,Estación Federico Lacroze,Urquiza,Metrovías,0,Operador,POINT (-58.45555225474584 -34.586817452686354),-58.45555225,-34.58681745
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f74,289,Estación,Artigas,Estación Artigas,Urquiza,Metrovías,1.292,Operador,POINT (-58.46634003142914 -34.59008590418931),-58.46634003,-34.5900859
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f75,290,Estación,Arata,Estación Arata,Urquiza,Metrovías,2.304,Operador,POINT (-58.47538679123275 -34.59242383012092),-58.47538679,-34.59242383
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f76,291,Estación,Fco. Beiró,Estación Fco. Beiró,Urquiza,Metrovías,3.919,Operador,POINT (-58.49423140270488 -34.593138436627086),-58.4942314,-34.59313844
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f77,292,Estación,A. Devoto,Estación A. Devoto,Urquiza,Metrovías,5.449,Operador,POINT (-58.51069392491965 -34.595619090659454),-58.51069392,-34.59561909
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f78,293,Estación,Coronel F. Lynch,Estación Coronel F. Lynch,Urquiza,Metrovías,6.741,Operador,POINT (-58.52445027909911 -34.59719768868005),-58.52445028,-34.59719769
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f79,294,Estación,F. Moreno,Estación F. Moreno,Urquiza,Metrovías,7.758,Operador,POINT (-58.53535695633232 -34.595557586840464),-58.53535696,-34.59555759
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f7a,295,Estación,Tropezón,Estación Tropezón,Urquiza,Metrovías,9.998,Operador,POINT (-58.559279379258044 -34.591846856428404),-58.55927938,-34.59184686
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f7b,297,Estación,J. M. Bosch,Estación J. M. Bosch,Urquiza,Metrovías,11.167,Operador,POINT (-58.571841534285575 -34.59001711781362),-58.57184153,-34.59001712
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f7c,298,Estación,M. Coronado,Estación M. Coronado,Urquiza,Metrovías,12.908,Operador,POINT (-58.59076933457795 -34.58895617693616),-58.59076933,-34.58895618
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f7d,299,Estación,P. Podestá,Estación P. Podestá,Urquiza,Metrovías,14.394,Operador,POINT (-58.607498373341656 -34.58837189065581),-58.60749837,-34.58837189
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f7e,300,Estación,R. Darío,Estación R. Darío,Urquiza,Metrovías,16.467,Operador,POINT (-58.62984051591892 -34.58752557373545),-58.62984052,-34.58752557
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f7f,301,Estación,J. Newbery,Estación J. Newbery,Urquiza,Metrovías,15.66,Operador,POINT (-58.6217714020477 -34.587819869490346),-58.6217714,-34.58781987
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f80,302,Estación,El Libertador,Estación El Libertador,Urquiza,Metrovías,4.7,Operador,POINT (-58.502985446273634 -34.59440951555276),-58.50298545,-34.59440952
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f81,303,Estación,Saldías,Estación Saldías,Belgrano Norte,Ferrovías,2.8,ADIF,POINT (-58.39949772967556 -34.57555697179727),-58.39949773,-34.57555697
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f82,304,Apeadero,Km. 83,Apeadero Km. 83,Mitre,SOFSE,83,ADIF,POINT (-58.97715525566073 -34.1602203302364),-58.97715526,-34.16022033
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f83,305,Estación,"Km. 34,5","Estación Km. 34,5",Sarmiento,SOFSE,34.5,ADIF,POINT (-58.76017414059667 -34.68006704963488),-58.76017414,-34.68006705
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f84,306,Estación,Pereyra,Estación Pereyra,Roca,SOFSE,37,ADIF,POINT (-58.09487222222225 -34.83656111111118),-58.09487222,-34.83656111
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f85,309,Estación,Victoria,Estación Victoria,Mitre,SOFSE,22.715,,POINT (-58.5409744681114 -34.45617662382787),-58.54097447,-34.45617662
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f86,310,Estación,Retiro,Estación Retiro,Mitre,SOFSE,0,,POINT (-58.37508888888889 -34.59084722222222),-58.37508889,-34.59084722
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f87,311,Estación,Miguelete,Estación Miguelete,Mitre,SOFSE,,,POINT (-58.51701077279242 -34.58107245810993),-58.51701077,-34.58107246
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f88,313,,Policlinico,,Roca,,,,POINT (-57.92144461040665 -34.925348336699365),-57.92144461,-34.92534834
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f89,314,Apeadero,Diagonal 73,Apeadero Diagonal 73,Roca,,,,POINT (-57.91907044524521 -34.92017156325334),-57.91907045,-34.92017156
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f8a,315,Apeadero,Periodismo,Apeadero Periodismo,Roca,,,,POINT (-57.924265358476084 -34.912100510629145),-57.92426536,-34.91210051
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f8b,316,,Medicina,,Roca,,,,POINT (-57.92779573818222 -34.90904179005445),-57.92779574,-34.90904179
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f8c,317,Apeadero, Informatica,Apeadero  Informatica,Roca,,,,POINT (-57.93776697437849 -34.903309240654735),-57.93776697,-34.90330924
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f8d,318,Apeadero,Arquitectura,Apeadero Arquitectura,Roca,,,,POINT (-57.94311237934971 -34.904967224998586),-57.94311238,-34.90496722
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f8e,333,Estación,20 de Junio,Estación 20 de Junio,Belgrano Sur,SOFSE,,,POINT (-58.738013045172124 -34.78036512479092),-58.73801305,-34.78036512
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f8f,334,Estación,Marcos Páz,Estación Marcos Páz,Belgrano Sur,SOFSE,,,POINT (-58.82978016075136 -34.78667583803332),-58.82978016,-34.78667584
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f90,527,Estación,Once,Estación Once,FFCC Sarmiento,SOFSE,,,POINT (-58.407556699367966 -34.60822931474136),-58.4075567,-34.60822931
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f91,537,Estación,Plaza Constitución,Estación Plaza Constitución,FFCC Roca,SOFSE,,,POINT (-58.38035833333333 -34.62900833333333),-58.38035833,-34.62900833
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f92,522,Estación,Mechita,Estación Mechita,FFCC Sarmiento,SOFSE,,,POINT (-60.40692032572804 -35.06615028388234),-60.40692033,-35.06615028
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f93,526,Estación,Luján,Estación Luján,FFCC Sarmiento,SOFSE,,,POINT (-59.103991095911 -34.57735573859549),-59.1039911,-34.57735574
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f94,533,Estación,Monte,Estación Monte,FFCC Roca no operativo,SOFSE,,,POINT (-58.81758055555556 -35.43666111111111),-58.81758056,-35.43666111
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f95,530,Estación,Las Flores,Estación Las Flores,FFCC Roca no operativo,SOFSE,,,POINT (-59.09650630507199 -36.02581713302685),-59.09650631,-36.02581713
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f96,531,Estación,Cachari,Estación Cachari,FFCC Roca no operativo,SOFSE,,,POINT (-59.50731388888889 -36.37334722222222),-59.50731389,-36.37334722
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f97,532,Estación,Azul,Estación Azul,FFCC Roca no operativo,SOFSE,,,POINT (-59.85286252087249 -36.78578560017885),-59.85286252,-36.7857856
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f98,547,Estación,Bell Ville,Estación Bell Ville,FFCC Mitre,SOFSE,,,POINT (-62.6938545725899 -32.61204809167934),-62.69385457,-32.61204809
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f99,548,Estación,Villa María,Estación Villa María,FFCC Mitre,SOFSE,,,POINT (-63.24504994858328 -32.41270478935284),-63.24504995,-32.41270479
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f9a,549,Estación,Cañada de Gomez,Estación Cañada de Gomez,FFCC Mitre,SOFSE,,,POINT (-61.39415622683344 -32.82246624931319),-61.39415623,-32.82246625
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f9b,550,Estación,Baradero,Estación Baradero,FFCC Mitre,SOFSE,,,POINT (-59.51718267485266 -33.81983129898119),-59.51718267,-33.8198313
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f9c,551,Estación,San Pedro,Estación San Pedro,FFCC Mitre,SOFSE,,,POINT (-59.68289995418397 -33.6943623247484),-59.68289995,-33.69436232
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f9d,552,Estación,San Nicolás,Estación San Nicolás,FFCC Mitre,SOFSE,,,POINT (-60.22615726198612 -33.34440597360288),-60.22615726,-33.34440597
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f9e,553,Estación,Correa,Estación Correa,FFCC Mitre,SOFSE,,,POINT (-61.25191603125456 -32.84665097174695),-61.25191603,-32.84665097
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4f9f,555,Estación,Retiro,Estación Retiro,FFCC Mitre,SOFSE,,,POINT (-58.37508888888889 -34.59084722222222),-58.37508889,-34.59084722
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fa0,556,Estación,Campana,Estación Campana,FFCC Mitre,SOFSE,,,POINT (-58.95849357225308 -34.15675078318522),-58.95849357,-34.15675078
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fa1,557,Estación,Zarate,Estación Zarate,FFCC Mitre,SOFSE,,,POINT (-59.03786944444445 -34.09783611111111),-59.03786944,-34.09783611
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fa2,558,Estación,Rosario Sur,Estación Rosario Sur,FFCC Mitre,SOFSE,,,POINT (-60.650352567210035 -33.00931956794669),-60.65035257,-33.00931957
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fa3,559,Estación,Rosario Norte,Estación Rosario Norte,FFCC Mitre,SOFSE,,,POINT (-60.65752690891446 -32.930810032918046),-60.65752691,-32.93081003
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fa4,560,Estación,Pilar,Estación Pilar,FFCC San Martín,SOFSE,,,POINT (-58.90826355820986 -34.46863943074546),-58.90826356,-34.46863943
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fa5,561,Estación,Mercedes P,Estación Mercedes P,FFCC San Martín,SOFSE,,,POINT (-59.43122301906385 -34.65686572486087),-59.43122302,-34.65686572
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fa6,562,Estación,Franklin,Estación Franklin,FFCC San Martín,SOFSE,,,POINT (-59.63044233883294 -34.61014004452793),-59.63044234,-34.61014004
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fa7,563,Apeadero,Rivas,Apeadero Rivas,FFCC San Martín,SOFSE,,,POINT (-59.75048229820812 -34.61040286450955),-59.7504823,-34.61040286
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fa8,564,Estación,Castilla,Estación Castilla,FFCC San Martín,SOFSE,,,POINT (-59.89724803807601 -34.61054386502899),-59.89724804,-34.61054387
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fa9,565,Estación,Rawson,Estación Rawson,FFCC San Martín,SOFSE,,,POINT (-60.06750051472569 -34.610494412903),-60.06750051,-34.61049441
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4faa,566,Estación,Jose C. Paz,Estación Jose C. Paz,FFCC San Martín,SOFSE,,,POINT (-58.75087699790717 -34.51903604373904),-58.750877,-34.51903604
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fab,567,Estación,O'Higgins,Estación O'Higgins,FFCC San Martín,SOFSE,,,POINT (-60.70020890515957 -34.581613042062),-60.70020891,-34.58161304
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fac,568,Estación,Junín,Estación Junín,FFCC San Martín,SOFSE,,,POINT (-60.94970305582251 -34.58429905183377),-60.94970306,-34.58429905
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fad,569,Estación,Retiro,Estación Retiro,FFCC San Martín,SOFSE,,,POINT (-58.37351079974269 -34.58927432492359),-58.3735108,-34.58927432
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fae,570,Estación,Chacabuco,Estación Chacabuco,FFCC San Martín,SOFSE,,,POINT (-60.47034323650588 -34.62969868541216),-60.47034324,-34.62969869
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4faf,576,Estación,General Pirán,Estación General Pirán,FFCC Roca,SOFSE,,,POINT (-57.7787636221351 -37.27678584199708),-57.77876362,-37.27678584
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fb0,577,Estación,Las Armas,Estación Las Armas,FFCC Roca,SOFSE,,,POINT (-57.83212051932169 -37.08721013873692),-57.83212052,-37.08721014
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fb1,578,Estación,Maipú,Estación Maipú,FFCC Roca,SOFSE,,,POINT (-57.88635763142136 -36.86241021628086),-57.88635763,-36.86241022
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fb2,579,Estación,Sevigné,Estación Sevigné,FFCC Roca,SOFSE,,,POINT (-57.74440473356022 -36.20147758359245),-57.74440473,-36.20147758
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fb3,580,Estación,Dolores,Estación Dolores,FFCC Roca,SOFSE,,,POINT (-57.68758880462939 -36.30313004712461),-57.6875888,-36.30313005
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fb4,581,Estación,Chascomús,Estación Chascomús,FFCC Roca,SOFSE,116.5,,POINT (-57.9826033541662 -35.57883801570542),-57.98260335,-35.57883802
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fb5,582,Estación,Lezama,Estación Lezama,FFCC Roca,SOFSE,,,POINT (-57.89535975882544 -35.87389512309247),-57.89535976,-35.87389512
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fb6,583,Estación,Coronel Brandsen,Estación Coronel Brandsen,FFCC Roca,SOFSE,64.288,,POINT (-58.23203055555556 -35.16803055555555),-58.23203056,-35.16803056
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fb7,584,Estación,Mar del Plata,Estación Mar del Plata,FFCC Roca,SOFSE,,,POINT (-57.56599364985341 -37.98789286068649),-57.56599365,-37.98789286
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fb8,585,Estación,Castelli,Estación Castelli,FFCC Roca,SOFSE,,,POINT (-57.81029037624778 -36.09367537183434),-57.81029038,-36.09367537
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fb9,587,Estación,General Guido,Estación General Guido,FFCC Roca,SOFSE,,,POINT (-57.79103607403955 -36.65607058975133),-57.79103607,-36.65607059
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fba,590,Estación,General Madariaga,Estación General Madariaga,FFCC Roca,SOFSE,,,POINT (-57.14054769820213 -36.99981933470719),-57.1405477,-36.99981933
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fbb,591,Estación,Santo Domingo,Estación Santo Domingo,FFCC Roca,SOFSE,,,POINT (-57.58800868812018 -36.71381821455176),-57.58800869,-36.71381821
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fbc,593,Apeadero,Divisadero Pinamar,Apeadero Divisadero Pinamar,FFCC Roca,SOFSE,,,POINT (-56.902682842999546 -37.099896788272616),-56.90268284,-37.09989679
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fbd,595,Estación,Lima,Estación Lima,FFCC Mitre,SOFSE,,,POINT (-59.19462790090459 -34.04138997865702),-59.1946279,-34.04138998
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fbe,598,Estación,Ramallo,Estación Ramallo,FFCC Mitre,SOFSE,,,POINT (-60.06783405375855 -33.50182940464974),-60.06783405,-33.5018294
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fbf,600,Estación,Arroyo Seco,Estación Arroyo Seco,FFCC Mitre,SOFSE,,,POINT (-60.50910508692561 -33.15627146331385),-60.50910509,-33.15627146
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fc0,606,Empalme,Emp. Villa Constitución,Empalme Emp. Villa Constitución,FFCC Mitre,SOFSE,,,POINT (-60.38325499199999 -33.26053191463777),-60.38325499,-33.26053191
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fc1,631,Estación,Serodino,Estación Serodino,FFCC Mitre,SOFSE,,,POINT (-60.94985959749241 -32.6068145322384),-60.9498596,-32.60681453
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fc2,632,Estación,Gálvez,Estación Gálvez,FFCC Mitre,SOFSE,,,POINT (-61.22267777777778 -32.03324722222222),-61.22267778,-32.03324722
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fc3,633,Estación,Rafaela,Estación Rafaela,FFCC Mitre,SOFSE,,,POINT (-61.47645271484957 -31.24918521955893),-61.47645271,-31.24918522
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fc4,634,Estación,Sunchales,Estación Sunchales,FFCC Mitre,SOFSE,,,POINT (-61.56704748847395 -30.94641811613933),-61.56704749,-30.94641812
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fc5,635,Estación,Ceres,Estación Ceres,FFCC Mitre,SOFSE,,,POINT (-61.94665967462221 -29.8823109002018),-61.94665967,-29.8823109
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fc6,636,Estación,Pinto,Estación Pinto,FFCC Mitre,SOFSE,,,POINT (-62.65773535341598 -29.14372835427729),-62.65773535,-29.14372835
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fc7,637,Estación,Colonia Dora,Estación Colonia Dora,FFCC Mitre,SOFSE,,,POINT (-62.95198581496799 -28.60420071072847),-62.95198581,-28.60420071
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fc8,639,Estación,Cevil Pozo,Estación Cevil Pozo,FFCC Mitre,SOFSE,,,POINT (-65.12707234799569 -26.85802606946076),-65.12707235,-26.85802607
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fc9,640,Estación,La Banda,Estación La Banda,FFCC Mitre,SOFSE,,,POINT (-64.24014169926143 -27.73246554011649),-64.2401417,-27.73246554
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fca,647,Estación,Córdoba,Estación Córdoba,FFCC Mitre,SOFSE,,,POINT (-64.1751455315645 -31.42034224309527),-64.17514553,-31.42034224
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fcb,648,Apeadero,Valle Hermoso,Apeadero Valle Hermoso,FFCC Belgrano,SOFSE,,,POINT (-64.48544614244453 -31.11665684371227),-64.48544614,-31.11665684
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fcc,649,Apeadero,Casa Grande,Apeadero Casa Grande,FFCC Belgrano,SOFSE,,,POINT (-64.47256722095295 -31.15329333186406),-64.47256722,-31.15329333
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fcd,650,Apeadero,Cosquín,Apeadero Cosquín,FFCC Belgrano,SOFSE,,,POINT (-64.46783624797747 -31.24368032187875),-64.46783625,-31.24368032
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fce,651,Apeadero,Santa María,Apeadero Santa María,FFCC Belgrano,SOFSE,,,POINT (-64.46263514229214 -31.27784485040181),-64.46263514,-31.27784485
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fcf,652,Apeadero,Bialet Massé,Apeadero Bialet Massé,FFCC Belgrano,SOFSE,,,POINT (-64.46324944948456 -31.30771581830302),-64.46324945,-31.30771582
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fd0,653,Estación,San Roque,Estación San Roque,FFCC Belgrano,SOFSE,,,POINT (-64.46079096928223 -31.34614321333638),-64.46079097,-31.34614321
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fd1,654,Apeadero,Cassaffousth,Apeadero Cassaffousth,FFCC Belgrano,SOFSE,,,POINT (-64.44180174339107 -31.37319415059831),-64.44180174,-31.37319415
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fd2,655,Apeadero,Casa Bamba,Apeadero Casa Bamba,FFCC Belgrano,SOFSE,,,POINT (-64.40382377370308 -31.34661837341594),-64.40382377,-31.34661837
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fd3,656,Estación,La Calera,Estación La Calera,FFCC Belgrano,SOFSE,,,POINT (-64.33849824741361 -31.34341056385128),-64.33849825,-31.34341056
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fd4,657,Estación,Dumesnil,Estación Dumesnil,FFCC Belgrano,SOFSE,,,POINT (-64.33207818778442 -31.32659316386889),-64.33207819,-31.32659316
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fd5,658,Apeadero,Tristan Narvaja,Apeadero Tristan Narvaja,FFCC Belgrano,SOFSE,,,POINT (-64.290494 -31.33561900000001),-64.290494,-31.335619
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fd6,659,Apeadero,La Tablada,Apeadero La Tablada,FFCC Belgrano,SOFSE,,,POINT (-64.23677695457826 -31.35269884956728),-64.23677695,-31.35269885
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fd7,660,Apeadero,Rodriguez del Busto,Apeadero Rodriguez del Busto,FFCC Belgrano,SOFSE,,,POINT (-64.22026356800097 -31.36415665552647),-64.22026357,-31.36415666
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fd8,661,Estación,Alta Córdoba,Estación Alta Córdoba,FFCC Belgrano,SOFSE,,,POINT (-64.18021916488098 -31.39812332452738),-64.18021916,-31.39812332
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fd9,662,,Argüello,,FFCC Belgrano,SOFSE,,,POINT (-64.25704079861488 -31.33959271286482),-64.2570408,-31.33959271
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fda,663,,Hospital Neonatal,,FFCC Belgrano,SOFSE,,,POINT (-64.21120171537572 -31.369401548774068),-64.21120172,-31.36940155
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fdb,664,Estación,James Craik,Estación James Craik,FFCC Mitre,SOFSE,,,POINT (-63.4637798804152 -32.16410677110896),-63.46377988,-32.16410677
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fdc,665,Estación,Oliva,Estación Oliva,FFCC Mitre,SOFSE,,,POINT (-63.57131730049644 -32.04188849084148),-63.5713173,-32.04188849
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fdd,666,Estación,Oncativo,Estación Oncativo,FFCC Mitre,SOFSE,,,POINT (-63.68510308800759 -31.91167451825206),-63.68510309,-31.91167452
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fde,667,Estación,Manfredi,Estación Manfredi,FFCC Mitre,SOFSE,,,POINT (-63.74474927233725 -31.84319202120187),-63.74474927,-31.84319202
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fdf,668,Estación,Laguna Larga,Estación Laguna Larga,FFCC Mitre,SOFSE,,,POINT (-63.80288369322263 -31.77734241110536),-63.80288369,-31.77734241
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fe0,669,Estación,Pilar,Estación Pilar,FFCC Mitre,SOFSE,,,POINT (-63.88531704919374 -31.68253117292485),-63.88531705,-31.68253117
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fe1,670,Estación,Río Segundo,Estación Río Segundo,FFCC Mitre,SOFSE,,,POINT (-63.91039444444444 -31.65392222222222),-63.91039444,-31.65392222
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fe2,671,Estación,Toledo,Estación Toledo,FFCC Mitre,SOFSE,,,POINT (-64.00959246440583 -31.55621965325702),-64.00959246,-31.55621965
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fe3,675,Estación,Tío Pujio KM 570.7,Estación Tío Pujio KM 570.7,FFCC Mitre,SOFSE,,,POINT (-63.35527222222224 -32.28779722222222),-63.35527222,-32.28779722
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fe4,676,Estación,Güemes,Estación Güemes,FFCC Belgrano,SOFSE,,,POINT (-65.04419339049528 -24.67327525749689),-65.04419339,-24.67327526
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fe5,677,Estación,Campo Santo,Estación Campo Santo,FFCC Belgrano,SOFSE,,,POINT (-65.10163 -24.664186),-65.10163,-24.664186
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fe6,678,Estación,Betania,Estación Betania,FFCC Belgrano,SOFSE,,,POINT (-65.147952 -24.684431),-65.147952,-24.684431
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fe7,679,Estación,Salta,Estación Salta,FFCC Belgrano,SOFSE,,,POINT (-65.41136651010619 -24.77717046926736),-65.41136651,-24.77717047
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fe8,680,Estación,Cerrillos,Estación Cerrillos,FFCC Belgrano,SOFSE,,,POINT (-65.492134 -24.906659),-65.492134,-24.906659
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fe9,682,Estación,Rosario de Lerma,Estación Rosario de Lerma,FFCC Belgrano,SOFSE,,,POINT (-65.583188 -24.979265),-65.583188,-24.979265
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fea,683,Estación,Campo Quijano,Estación Campo Quijano,FFCC Belgrano,SOFSE,,,POINT (-65.646074 -24.910773),-65.646074,-24.910773
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4feb,684,,Batalla de Salta,,FFCC Belgrano,SOFSE,,,POINT (-65.39596403350194 -24.741171510070515),-65.39596403,-24.74117151
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fec,685,Estación,Paraná,Estación Paraná,FFCC Urquiza,SOFSE,,,POINT (-60.53214444444444 -31.74210277777778),-60.53214444,-31.74210278
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fed,686,Estación,Ramón A. Parera,Estación Ramón A. Parera,FFCC Urquiza,SOFSE,,,POINT (-60.44870404633721 -31.75264841246846),-60.44870405,-31.75264841
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fee,688,,Francisco Ramírez,,FFCC Urquiza,SOFSE,,,POINT (-60.52074998656361 -31.758279243043596),-60.52074999,-31.75827924
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fef,689,,División de los Andes,,FFCC Urquiza,SOFSE,,,POINT (-60.51605039844833 -31.764163546268723),-60.5160504,-31.76416355
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ff0,690,,Miguel David,,FFCC Urquiza,SOFSE,,,POINT (-60.5125224346682 -31.76851622885459),-60.51252243,-31.76851623
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ff1,691,,Las Garzas,,FFCC Urquiza,SOFSE,,,POINT (-60.504209792737264 -31.773395815121923),-60.50420979,-31.77339582
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ff2,692,,Gobernador Parera,,FFCC Urquiza,SOFSE,,,POINT (-60.49522788495009 -31.771995102229614),-60.49522788,-31.7719951
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ff3,693,,Salvador Caputto,,FFCC Urquiza,SOFSE,,,POINT (-60.48295528367406 -31.76970912569861),-60.48295528,-31.76970913
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ff4,694,,Gobernador Maya,,FFCC Urquiza,SOFSE,,,POINT (-60.454365031741496 -31.751994034843392),-60.45436503,-31.75199403
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ff5,695,,Colonia Avellaneda,,FFCC Urquiza,SOFSE,,,POINT (-60.40913640517234 -31.756235445844368),-60.40913641,-31.75623545
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ff6,696,Estación,Neuquén,Estación Neuquén,FFCC Roca,SOFSE,,,POINT (-68.0582410421927 -38.95594550224196),-68.05824104,-38.9559455
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ff7,697,Estación,Plottier,Estación Plottier,FFCC Roca,SOFSE,,,POINT (-68.2329388888889 -38.95515555555556),-68.23293889,-38.95515556
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ff8,698,Estación,Cipolletti,Estación Cipolletti,FFCC Roca,SOFSE,,,POINT (-67.99640741359401 -38.94195236208597),-67.99640741,-38.94195236
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ff9,699,Estación,Posadas,Estación Posadas,FFCC Urquiza,SOFSE,,,POINT (-55.88367653478601 -27.38020690622136),-55.88367653,-27.38020691
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ffa,700,,Encarnación,,FFCC Urquiza,SOFSE,,,POINT (-55.8489851840084 -27.361155833000392),-55.84898518,-27.36115583
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ffb,701,Estación,Cacuí,Estación Cacuí,FFCC Belgrano,SOFSE,,,POINT (-59.04521420576477 -27.415267559984),-59.04521421,-27.41526756
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ffc,702,Estación,Resistencia,Estación Resistencia,FFCC Belgrano,SOFSE,,,POINT (-58.98111556907945 -27.463815479167216),-58.98111557,-27.46381548
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ffd,703,Apeadero,Charadai,Apeadero Charadai,FFCC Belgrano,SOFSE,,,POINT (-59.86092444840903 -27.65084436163672),-59.86092445,-27.65084436
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4ffe,706,Apeadero,General Obligado,Apeadero General Obligado,FFCC Belgrano,SOFSE,,,POINT (-59.41914755981744 -27.41085387563074),-59.41914756,-27.41085388
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_4fff,707,Apeadero,Fortín Cardoso,Apeadero Fortín Cardoso,FFCC Belgrano,SOFSE,,,POINT (-59.23377862945083 -27.4090255233531),-59.23377863,-27.40902552
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5000,708,Apeadero,General Dónovan,Apeadero General Dónovan,FFCC Belgrano,SOFSE,,,POINT (-59.10842356203307 -27.38591700118522),-59.10842356,-27.385917
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5001,711,,Desvío Km 519,,FFCC Belgrano,SOFSE,,,POINT (-59.336986787680225 -27.412607443352005),-59.33698679,-27.41260744
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5002,712,,Desvío Km. 523,,FFCC Belgrano,SOFSE,,,POINT (-59.292445050153326 -27.413521297088348),-59.29244505,-27.4135213
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5003,713,,Desvío Km. 535,,FFCC Belgrano,SOFSE,,,POINT (-59.16675678387706 -27.394111688260082),-59.16675678,-27.39411169
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5004,716,,Fotheringham,,FFCC Belgrano,SOFSE,,,POINT (-59.00774393185524 -27.44012433897977),-59.00774393,-27.44012434
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5005,717,,Hernandarias,,FFCC Belgrano,SOFSE,,,POINT (-58.99848799766425 -27.44833060741819),-58.998488,-27.44833061
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5006,718,,Alberdi,,FFCC Belgrano,SOFSE,,,POINT (-58.991359017761354 -27.454713772181094),-58.99135902,-27.45471377
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5007,719,Estación,Presidencia Roque Sáenz Peña,Estación Presidencia Roque Sáenz Peña,FFCC Belgrano,SOFSE,,,POINT (-60.44108451680598 -26.79464097819044),-60.44108452,-26.79464098
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5008,720,Estación,Chorotis,Estación Chorotis,FFCC Belgrano,SOFSE,,,POINT (-61.39907866960692 -27.91626824393696),-61.39907867,-27.91626824
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5009,721,Estación,Venados Grandes,Estación Venados Grandes,FFCC Belgrano,SOFSE,,,POINT (-61.3821510310424 -27.81627798932484),-61.38215103,-27.81627799
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_500a,722,Estación,Zuberbühler,Estación Zuberbühler,FFCC Belgrano,SOFSE,,,POINT (-61.3651149672491 -27.71537929666823),-61.36511497,-27.7153793
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_500b,723,Estación,Hermoso Campo,Estación Hermoso Campo,FFCC Belgrano,SOFSE,,,POINT (-61.34737744870067 -27.61009009628636),-61.34737745,-27.6100901
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_500c,724,Estación,Itín,Estación Itín,FFCC Belgrano,SOFSE,,,POINT (-61.32661069705846 -27.48648977330158),-61.3266107,-27.48648977
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_500d,725,Estación,Avia Terai,Estación Avia Terai,FFCC Belgrano,SOFSE,,,POINT (-60.733715685272 -26.69103614924401),-60.73371569,-26.69103615
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_500e,726,Estación,General Pinedo,Estación General Pinedo,FFCC Belgrano,SOFSE,,,POINT (-61.280225 -27.31768333333334),-61.280225,-27.31768333
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_500f,727,Estación,Charata,Estación Charata,FFCC Belgrano,SOFSE,,,POINT (-61.19178307806127 -27.21507363949439),-61.19178308,-27.21507364
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5010,728,Estación,Pampa del Cielo,Estación Pampa del Cielo,FFCC Belgrano,SOFSE,,,POINT (-61.1409466681108 -27.15598329554491),-61.14094667,-27.1559833
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5011,729,Estación,Las Breñas,Estación Las Breñas,FFCC Belgrano,SOFSE,,,POINT (-61.08405443247315 -27.08971191240073),-61.08405443,-27.08971191
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5012,730,Estación,Pozo del Indio,Estación Pozo del Indio,FFCC Belgrano,SOFSE,,,POINT (-61.01836358760643 -27.01280966951525),-61.01836359,-27.01280967
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5013,731,Estación,Corzuela,Estación Corzuela,FFCC Belgrano,SOFSE,,,POINT (-60.96956471699804 -26.95570748261845),-60.96956472,-26.95570748
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5014,732,Estación,Campo Largo,Estación Campo Largo,FFCC Belgrano,SOFSE,,,POINT (-60.8416647310603 -26.80504102206658),-60.84166473,-26.80504102
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5015,733,,La Mascota,,FFCC Belgrano,SOFSE,,,POINT (-60.54003425036302 -26.75960006792245),-60.54003425,-26.75960007
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5016,734,,Napenay,,FFCC Belgrano,SOFSE,,,POINT (-60.61868253567455 -26.731816089217848),-60.61868254,-26.73181609
+Estacion_ffcc_serv_22.view.fid--eb08bae_1a17d79ff8d_5017,735,,Las Chuñas,,FFCC Belgrano,SOFSE,,,POINT (-60.90868457968963 -26.884151725286756),-60.90868458,-26.88415173
