@@ -30,11 +30,12 @@ refacción, propiedades fuera de CABA.
 ## 🧭 Resumen de hallazgos (Fase 3)
 
 - **H1 — Subvaluación (confirmada como señal).** Un modelo de regresión lineal sobre precio/m²
-  (R² = 0,55 fuera de muestra, superior al baseline de mediana = 0,42) estima el valor esperado
+  (R² = 0,55 fuera de muestra, superior al baseline de mediana = 0,455) estima el valor esperado
   de cada propiedad. Su residuo identifica **2.324 propiedades candidatas a subvaluación**. El
   residuo es una *señal a verificar*, no una conclusión de compra.
 - **H2 — Rentabilidad premium vs. resto (confirmada).** Con rentabilidad **neta** de costos, los
-  barrios premium rinden 2,98% frente a 3,77% del resto (−27%, Mann-Whitney p = 0,0013). La
+  barrios premium rinden 2,98% frente a 3,77% del resto (−21%; el resto rinde 27% más,
+  Mann-Whitney p = 0,0013). La
   segmentación objetiva lo refuerza (cluster caro 3,18% vs. barato 4,46%, p = 0,0004).
 - **H3 — Contexto y precio (confirmada de forma matizada).** El índice de contexto global no
   muestra asociación significativa con el precio (Spearman rho = 0,24, p = 0,10), pero al
@@ -66,7 +67,7 @@ refacción, propiedades fuera de CABA.
 - **H1** — Existe una proporción relevante de propiedades cuyo precio se aparta de su valor
   esperado (candidatas a subvaluación). → *Confirmada como señal (modelo + residuo).*
 - **H2** — Los barrios premium tienen menor rentabilidad neta por alquiler que los medios/bajos.
-  → *Confirmada (−27%, p = 0,0013; reforzada por clustering, p = 0,0004).*
+  → *Confirmada (−21%, p = 0,0013; reforzada por clustering, p = 0,0004).*
 - **H3** — El precio/m² se relaciona (asociación, no causa) con variables de contexto. →
   *Confirmada de forma matizada: la asociación se canaliza principalmente por la seguridad.*
 
@@ -162,8 +163,8 @@ playwright install chromium   # solo para el scraper de MercadoLibre
 4. **Fuentes externas:** `notebooks/03_fuentes_externas.ipynb`. Trae y procesa las fuentes del GCBA
    mediante join espacial y genera `data/external/contexto_por_barrio.csv`.
 5. **Análisis avanzado:** `notebooks/04_desarrollo_analitico_avanzado.ipynb`. Evalúa las hipótesis,
-   entrena el modelo, construye el clustering y el Score, y exporta los 4 CSV que alimentan el
-   dashboard.
+   entrena el modelo, construye el clustering y el Score. Sus resultados son los 4 CSV de
+   `data/processed/` que alimentan el dashboard.
 6. **Dashboard:** abrir `dashboard/dashboard.pbix` en Power BI. Se alimenta de los CSV de
    `data/processed/`.
 
