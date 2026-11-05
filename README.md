@@ -107,7 +107,7 @@ AD_Trabajo_Practico_G6/
 │   └── eda.py                            # Funciones de análisis reutilizables
 ├── scrapers/                             # Scripts de extracción
 ├── dashboard/                            # Dashboard interactivo (Power BI)
-│   └── dashboard.pbix
+│   └── Dashboard.pbix
 ├── docs/                                 # Documentos de entrega
 │   └── entrega1_contexto_negocio.pdf
 ├── README.md
@@ -165,7 +165,7 @@ playwright install chromium   # solo para el scraper de MercadoLibre
 5. **Análisis avanzado:** `notebooks/04_desarrollo_analitico_avanzado.ipynb`. Evalúa las hipótesis,
    entrena el modelo, construye el clustering y el Score. Sus resultados son los 4 CSV de
    `data/processed/` que alimentan el dashboard.
-6. **Dashboard:** abrir `dashboard/dashboard.pbix` en Power BI. Se alimenta de los CSV de
+6. **Dashboard:** abrir `dashboard/Dashboard.pbix` en Power BI. Se alimenta de los CSV de
    `data/processed/`.
 
 > Las notebooks clonan el repositorio automáticamente en Colab y usan rutas relativas. El tipo de
@@ -181,7 +181,7 @@ playwright install chromium   # solo para el scraper de MercadoLibre
 - `data/processed/ranking_oportunidades.csv` — top de propiedades subvaluadas, con dirección, `id_aviso` y `link`.
 - `data/processed/clusters_barrios.csv` — segmentación de barrios con coordenadas PCA.
 - `data/processed/metricas_modelo.csv` — métricas del modelo vs. baseline.
-- `dashboard/dashboard.pbix` — tablero interactivo para el fondo.
+- `dashboard/Dashboard.pbix` — tablero interactivo para el fondo.
 
 > Por su tamaño (~22 MB), el dataset procesado puede reconstruirse corriendo las notebooks desde los crudos.
 
