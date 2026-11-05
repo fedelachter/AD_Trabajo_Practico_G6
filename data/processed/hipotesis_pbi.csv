@@ -1,4 +1,4 @@
 ﻿hipotesis,tema,metrica,valor,detalle
 H1,Subvaluación,"R² del modelo (precio/m², fuera de muestra)",0.547,Baseline (mediana barrio+tipo): 0.455
 H2,Rentabilidad,Rentabilidad neta mediana: premium vs resto,2.98,Resto: 3.77% · Mann-Whitney p = 0.0013 · el resto rinde 27% más
-H3,Contexto,Spearman contexto vs precio/m² (sin Puerto Madero),0.525,Con Puerto Madero: 0.413 (p = 0.011)
+H3,Contexto,Spearman seguridad vs precio/m²,0.55,Índice de contexto global: rho 0.24 (p = 0.10) · la asociación se canaliza por la seguridad (p = 0.0001)
