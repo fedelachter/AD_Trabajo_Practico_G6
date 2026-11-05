@@ -1,51 +1,51 @@
-﻿direccion,barrio,tipo_propiedad,m2_cubiertos,ambientes,banos,precio_usd,precio_m2,precio_m2_esperado,residuo_pct,score_barrio,score_propiedad
-"Santiago Del Estero  1300, Constitución, Capital Federal",Constitucion,departamento,184.0,5,4,125000.0,679.35,1872.46,-63.72,1.78,5.78
-"Santiago Del Estero 1784, Constitución, Capital Federal",Constitucion,departamento,31.0,1,1,16800.0,541.94,1461.11,-62.91,1.78,5.67
-"Avenida Ingeniero Huergo 1191, San Telmo, Capital Federal",San Telmo,departamento,140.0,4,3,100000.0,714.29,2624.41,-72.78,0.59,5.09
-"Pasaje 2 De Abril De 1982 6400, Villa Lugano, Capital Federal",Villa Lugano,departamento,93.0,5,2,49000.0,526.88,1283.89,-58.96,1.75,5.09
-"Avenida Belgrano 800, Monserrat, Capital Federal",Monserrat,departamento,130.0,4,2,87000.0,669.23,2048.25,-67.33,1.02,5.04
-"José León Suárez 2540, Mataderos, Capital Federal",Mataderos,departamento,45.0,2,1,22500.0,500.0,1907.94,-73.79,0.39,4.9
-"2 De Abril De 1982 6500, Buenos Aires, Argentina, Villa Lugano, Capital Federal",Villa Lugano,departamento,91.0,5,2,50000.0,549.45,1285.42,-57.26,1.75,4.86
-"Paraguay 1300, Recoleta, Capital Federal",Recoleta,departamento,209.0,5,3,193000.0,923.44,3436.13,-73.13,0.28,4.64
-"Salta Al 2000, Constitución, Capital Federal",Constitucion,departamento,145.0,4,2,89000.0,613.79,1371.55,-55.25,1.78,4.63
-"Carlos Pellegrini  Al 1200, Retiro, Capital Federal",Retiro,departamento,153.0,4,3,188000.0,1228.76,3218.35,-61.82,1.12,4.46
-"José Aarón Salmún Feijóo 953, Barracas, Capital Federal",Barracas,departamento,125.0,4,2,65000.0,520.0,2048.5,-74.62,0.04,4.45
-"MONTIEL  3900, Villa Lugano, Capital Federal",Villa Lugano,departamento,80.0,5,2,48500.0,606.25,1293.83,-53.14,1.75,4.3
-"Lima 900 - 1200, San Telmo, Capital Federal",San Telmo,departamento,118.0,3,2,95000.0,805.08,2429.43,-66.86,0.59,4.29
-"Luisito Cuter 4020, Villa Lugano, Capital Federal",Villa Lugano,departamento,99.0,4,2,65000.0,656.57,1386.42,-52.64,1.75,4.23
-"Goleta Santa Cruz 6800, Villa Lugano, Capital Federal",Villa Lugano,departamento,71.0,4,1,37000.0,521.13,1088.91,-52.14,1.75,4.16
-"Zuviría 6800, Villa Lugano, Capital Federal",Villa Lugano,departamento,75.0,4,1,39000.0,520.0,1085.85,-52.11,1.75,4.16
-"Lima Al 1000, Constitución, Capital Federal",Constitucion,departamento,117.0,3,2,85000.0,726.5,1500.07,-51.57,1.78,4.13
-"Presidente Luis Saenz Peña Al 1400, Constitución, Capital Federal",Constitucion,departamento,36.0,1,1,25500.0,708.33,1457.29,-51.39,1.78,4.1
-"2 De Abril De 1982 Al 6400, Villa Lugano, Capital Federal",Villa Lugano,departamento,97.0,6,2,55000.0,567.01,1173.72,-51.69,1.75,4.1
-"Avenida Escalada 4500, Villa Lugano, Capital Federal",Villa Lugano,departamento,116.0,4,3,95000.0,818.97,1692.34,-51.61,1.75,4.09
-"Zuviría 6848, BEZ, Villa Lugano, Capital Federal",Villa Lugano,departamento,74.0,4,1,39000.0,527.03,1086.61,-51.5,1.75,4.08
-"RIVADAVIA, AV. Al 1300. Entre San Jose Y Santiago Del Estero, Monserrat, Capital Federal",Monserrat,departamento,170.0,4,4,179500.0,1055.88,2655.51,-60.24,1.02,4.07
-"Avenida Soldado De La Frontera 4600, Villa Lugano, Capital Federal",Villa Lugano,departamento,51.0,3,1,30000.0,588.24,1211.31,-51.44,1.75,4.07
-"Moreno 950, Monserrat, Capital Federal",Monserrat,departamento,116.0,4,3,110000.0,948.28,2377.87,-60.12,1.02,4.06
-"Solis Al 300, Monserrat, Capital Federal",Monserrat,departamento,226.0,2,1,169500.0,750.0,1870.2,-59.9,1.02,4.03
-"Av Libertador 300, Retiro, Capital Federal",Retiro,departamento,149.0,4,3,199000.0,1335.57,3221.41,-58.54,1.12,4.02
-"Reconquista Al 600, Retiro, Capital Federal",Retiro,departamento,92.0,6,1,95000.0,1032.61,2412.91,-57.2,1.12,3.84
-"Bartolomé Mitre 1700, San Nicolás, Capital Federal",San Nicolas,departamento,103.0,1,2,75000.0,728.16,2190.28,-66.76,0.3,3.8
-"Moreno 1200, Monserrat, Capital Federal",Monserrat,departamento,115.0,6,2,90000.0,782.61,1845.49,-57.59,1.02,3.71
-"Viamonte Al 400, Retiro, Capital Federal",Retiro,departamento,60.0,4,1,70000.0,1166.67,2651.6,-56.0,1.12,3.67
-"Reconquista Al 1000, Retiro, Capital Federal",Retiro,departamento,118.0,5,2,147000.0,1245.76,2819.07,-55.81,1.12,3.65
-"Pasaje 2 De Abril 6451 6400, Villa Lugano, Capital Federal",Villa Lugano,departamento,51.0,3,1,32000.0,627.45,1211.31,-48.2,1.75,3.63
-"San José 352, Monserrat, Capital Federal",Monserrat,departamento,200.0,8,2,135000.0,675.0,1566.3,-56.9,1.02,3.62
-"Blvd. Azucena Villaflor 306, C1107 Comuna 1, Cdad. Autónoma De Buenos Aires, Argentina, Puerto Madero, Capital Federal",Puerto Madero,departamento,99.0,3,1,90000.0,909.09,5525.33,-83.55,-1.23,3.61
-"Avenida Rivadavia 1300, San Nicolás, Capital Federal",San Nicolas,departamento,172.0,7,4,128000.0,744.19,2132.68,-65.11,0.3,3.57
-"Montiel Al 3900, Villa Lugano, Capital Federal",Villa Lugano,departamento,69.0,4,1,39500.0,572.46,1090.44,-47.5,1.75,3.53
-"Salta 1629, Constitución, Capital Federal",Constitucion,departamento,100.0,3,2,80000.0,800.0,1513.06,-47.13,1.78,3.52
-"Villa Lugano, Villa Lugano, Capital Federal",Villa Lugano,departamento,80.0,4,2,59000.0,737.5,1400.94,-47.36,1.75,3.51
-"Suipacha 800, Retiro, Capital Federal",Retiro,departamento,90.0,4,2,120000.0,1333.33,2947.59,-54.77,1.12,3.5
-"Moreno 950, Ciudad Autónoma De Buenos Aires, Argentina, Monserrat, Capital Federal",Monserrat,departamento,116.0,4,2,105000.0,905.17,2058.95,-56.04,1.02,3.5
-"Florida Al 700, Retiro, Capital Federal",Retiro,departamento,96.0,4,1,115000.0,1197.92,2624.09,-54.35,1.12,3.45
-"Palos 400, La Boca, Capital Federal",La Boca,departamento,45.0,3,1,25000.0,555.56,1365.65,-59.32,0.69,3.42
-"Tacuarí 1300, Monserrat, Capital Federal",Monserrat,departamento,90.0,3,2,88000.0,977.78,2185.94,-55.27,1.02,3.4
-"Soliz 200, Monserrat, Capital Federal",Monserrat,departamento,99.0,4,1,78000.0,787.88,1753.03,-55.06,1.02,3.37
-"Cuter Luisito 4000, Villa Lugano, Capital Federal",Villa Lugano,departamento,65.0,3,1,42000.0,646.15,1200.61,-46.18,1.75,3.35
-"Montiel 4000, Villa Lugano, Capital Federal",Villa Lugano,departamento,70.0,6,2,45000.0,642.86,1194.36,-46.18,1.75,3.35
-"Solis Al 1800, Constitución, Capital Federal",Constitucion,departamento,84.0,3,1,55000.0,654.76,1206.37,-45.72,1.78,3.33
-"Maipu 971, Retiro, Capital Federal",Retiro,departamento,48.0,1,1,67000.0,1395.83,2982.12,-53.19,1.12,3.29
-"Constitución 1200, Constitución, Capital Federal",Constitucion,departamento,83.0,4,1,50000.0,602.41,1100.02,-45.24,1.78,3.27
-"Zuviría 6950, Villa Lugano, Capital Federal",Villa Lugano,departamento,76.0,4,1,45000.0,592.11,1085.09,-45.43,1.75,3.25
+﻿direccion,barrio,tipo_propiedad,m2_cubiertos,ambientes,banos,precio_usd,precio_m2,precio_m2_esperado,residuo_pct,score_barrio,score_propiedad,id_aviso,link,banos_imputado,precio_real_vs_esperado
+"Santiago Del Estero  1300, Constitución, Capital Federal",Constitución,departamento,184.0,5,4,125000.0,679.35,1872.46,-63.72,1.78,5.78,MLA1741255025,https://departamento.mercadolibre.com.ar/MLA-1741255025-departamento-en-venta-de-5-ambientes-al-frente-con-balconsantiago-del-estero-1300-piso1-us125000-_JM,False,-1193.1100000000001
+"Santiago Del Estero 1784, Constitución, Capital Federal",Constitución,departamento,31.0,1,1,16800.0,541.94,1461.11,-62.91,1.78,5.67,MLA3834660708,https://departamento.mercadolibre.com.ar/MLA-3834660708-venta-departamento-monoambiente-constitucion-anticipo-y-cuotas-_JM,False,-919.1699999999998
+"Avenida Ingeniero Huergo 1191, San Telmo, Capital Federal",San Telmo,departamento,140.0,4,3,100000.0,714.29,2624.41,-72.78,0.59,5.09,MLA1824469097,https://departamento.mercadolibre.com.ar/MLA-1824469097-5-ambientes-enorme-frente-cbalcon-muy-luminoso-inmejo-_JM,False,-1910.12
+"Pasaje 2 De Abril De 1982 6400, Villa Lugano, Capital Federal",Villa Lugano,departamento,93.0,5,2,49000.0,526.88,1283.89,-58.96,1.75,5.09,MLA1946332967,https://departamento.mercadolibre.com.ar/MLA-1946332967-depto-5-ambientes-en-ventabarrio-piedrabuena-_JM,False,-757.0100000000001
+"Avenida Belgrano 800, Monserrat, Capital Federal",Monserrat,departamento,130.0,4,2,87000.0,669.23,2048.25,-67.33,1.02,5.04,MLA1812612179,https://departamento.mercadolibre.com.ar/MLA-1812612179-departamento-semipiso-en-venta-en-monserrat-capital-federal-buenos-aires-_JM,True,-1379.02
+"José León Suárez 2540, Mataderos, Capital Federal",Mataderos,departamento,45.0,2,1,22500.0,500.0,1907.94,-73.79,0.39,4.9,MLA3903891542,https://departamento.mercadolibre.com.ar/MLA-3903891542-emprendimiento-inversion-departamentos-en-pozo-mataderos-_JM,False,-1407.94
+"2 De Abril De 1982 6500, Buenos Aires, Argentina, Villa Lugano, Capital Federal",Villa Lugano,departamento,91.0,5,2,50000.0,549.45,1285.42,-57.26,1.75,4.86,MLA2832097774,https://departamento.mercadolibre.com.ar/MLA-2832097774-departamento-en-venta-en-barrio-piedrabuena-_JM,False,-735.97
+"Paraguay 1300, Recoleta, Capital Federal",Recoleta,departamento,209.0,5,3,193000.0,923.44,3436.13,-73.13,0.28,4.64,MLA3278833312,https://departamento.mercadolibre.com.ar/MLA-3278833312-departamento-en-venta-en-recoleta-213m2-con-jardin-y-baulera-_JM,False,-2512.69
+"Salta Al 2000, Constitución, Capital Federal",Constitución,departamento,145.0,4,2,89000.0,613.79,1371.55,-55.25,1.78,4.63,MLA3260575592,https://departamento.mercadolibre.com.ar/MLA-3260575592-departamento-tipo-casa-4-ambientes-en-constitucion-venta-_JM,False,-757.76
+"Carlos Pellegrini  Al 1200, Retiro, Capital Federal",Retiro,departamento,153.0,4,3,188000.0,1228.76,3218.35,-61.82,1.12,4.46,MLA2904707670,https://departamento.mercadolibre.com.ar/MLA-2904707670-departamento-en-venta-en-retiro-caba-_JM,False,-1989.59
+"José Aarón Salmún Feijóo 953, Barracas, Capital Federal",Barracas,departamento,125.0,4,2,65000.0,520.0,2048.5,-74.62,0.04,4.45,MLA3518197798,https://departamento.mercadolibre.com.ar/MLA-3518197798-ph-al-frente-con-local-a-reciclar-_JM,False,-1528.5
+"MONTIEL  3900, Villa Lugano, Capital Federal",Villa Lugano,departamento,80.0,5,2,48500.0,606.25,1293.83,-53.14,1.75,4.3,MLA3917951958,https://departamento.mercadolibre.com.ar/MLA-3917951958-se-vende-dpto-5-amb-en-barrio-piedrabuena-_JM,False,-687.5799999999999
+"Lima 900 - 1200, San Telmo, Capital Federal",San Telmo,departamento,118.0,3,2,95000.0,805.08,2429.43,-66.86,0.59,4.29,MLA2013464365,https://departamento.mercadolibre.com.ar/MLA-2013464365-en-venta-departamentopiso-3-ambientes-zona-uade-amplio-y-luminoso-apto-credito-_JM,False,-1624.35
+"Luisito Cuter 4020, Villa Lugano, Capital Federal",Villa Lugano,departamento,99.0,4,2,65000.0,656.57,1386.42,-52.64,1.75,4.23,MLA3886915542,https://departamento.mercadolibre.com.ar/MLA-3886915542-amplio-departamento-4-amb-s-centro-comercial-_JM,False,-729.85
+"Goleta Santa Cruz 6800, Villa Lugano, Capital Federal",Villa Lugano,departamento,71.0,4,1,37000.0,521.13,1088.91,-52.14,1.75,4.16,MLA1945491327,https://departamento.mercadolibre.com.ar/MLA-1945491327-venta-dto-4-amb-villa-lugano-_JM,False,-567.7800000000001
+"Zuviría 6800, Villa Lugano, Capital Federal",Villa Lugano,departamento,75.0,4,1,39000.0,520.0,1085.85,-52.11,1.75,4.16,MLA2061611529,https://departamento.mercadolibre.com.ar/MLA-2061611529-venta-depto-4-amb-piedra-buena-lugano-_JM,False,-565.8499999999999
+"Lima Al 1000, Constitución, Capital Federal",Constitución,departamento,117.0,3,2,85000.0,726.5,1500.07,-51.57,1.78,4.13,MLA2044274647,https://departamento.mercadolibre.com.ar/MLA-2044274647-departamento-en-venta-3-ambientes-palier-privado-a-reciclar-constitucion-_JM,False,-773.5699999999999
+"Presidente Luis Saenz Peña Al 1400, Constitución, Capital Federal",Constitución,departamento,36.0,1,1,25500.0,708.33,1457.29,-51.39,1.78,4.1,MLA2060806593,https://departamento.mercadolibre.com.ar/MLA-2060806593-venta-departamento-monoambiente-con-entrepiso-en-constitucion-_JM,False,-748.9599999999999
+"2 De Abril De 1982 Al 6400, Villa Lugano, Capital Federal",Villa Lugano,departamento,97.0,6,2,55000.0,567.01,1173.72,-51.69,1.75,4.1,MLA2060566641,https://departamento.mercadolibre.com.ar/MLA-2060566641-departamento-6-amb-apto-credito-_JM,False,-606.71
+"Avenida Escalada 4500, Villa Lugano, Capital Federal",Villa Lugano,departamento,116.0,4,3,95000.0,818.97,1692.34,-51.61,1.75,4.09,MLA3720671844,https://departamento.mercadolibre.com.ar/MLA-3720671844-venta-departamento-4-ambientes-a-nuevo-v-lugano-_JM,False,-873.3699999999999
+"Zuviría 6848, BEZ, Villa Lugano, Capital Federal",Villa Lugano,departamento,74.0,4,1,39000.0,527.03,1086.61,-51.5,1.75,4.08,MLA3366591184,https://departamento.mercadolibre.com.ar/MLA-3366591184-departamento-en-venta-de-4-ambientes-en-barrio-piedrabuena-escalera-3-sobre-zuviria-_JM,False,-559.5799999999999
+"RIVADAVIA, AV. Al 1300. Entre San Jose Y Santiago Del Estero, Monserrat, Capital Federal",Monserrat,departamento,170.0,4,4,179500.0,1055.88,2655.51,-60.24,1.02,4.07,MLA1833957257,https://departamento.mercadolibre.com.ar/MLA-1833957257-oportunidad-valor-m2-us-1048-venta-depto-4-amb-monserrat-_JM,False,-1599.63
+"Avenida Soldado De La Frontera 4600, Villa Lugano, Capital Federal",Villa Lugano,departamento,51.0,3,1,30000.0,588.24,1211.31,-51.44,1.75,4.07,MLA2041549147,https://departamento.mercadolibre.com.ar/MLA-2041549147-departamento-3-ambientes-venta-v-lugano-_JM,False,-623.0699999999999
+"Moreno 950, Monserrat, Capital Federal",Monserrat,departamento,116.0,4,3,110000.0,948.28,2377.87,-60.12,1.02,4.06,MLA1783940705,https://departamento.mercadolibre.com.ar/MLA-1783940705-cuatro-ambientes-tres-banos-cocina-y-baulera-_JM,False,-1429.59
+"Solis Al 300, Monserrat, Capital Federal",Monserrat,departamento,226.0,2,1,169500.0,750.0,1870.2,-59.9,1.02,4.03,MLA3718593104,https://departamento.mercadolibre.com.ar/MLA-3718593104-departamento-en-venta-monserrat-_JM,True,-1120.2
+"Av Libertador 300, Retiro, Capital Federal",Retiro,departamento,149.0,4,3,199000.0,1335.57,3221.41,-58.54,1.12,4.02,MLA3911869158,https://departamento.mercadolibre.com.ar/MLA-3911869158-departamento-semipiso-en-venta-en-retiro-capital-federal-buenos-aires-_JM,False,-1885.84
+"Reconquista Al 600, Retiro, Capital Federal",Retiro,departamento,92.0,6,1,95000.0,1032.61,2412.91,-57.2,1.12,3.84,MLA1807498245,https://departamento.mercadolibre.com.ar/MLA-1807498245-departamento-4-ambientes-en-retiro-en-oportunidad-_JM,False,-1380.3
+"Bartolomé Mitre 1700, San Nicolás, Capital Federal",San Nicolás,departamento,103.0,1,2,75000.0,728.16,2190.28,-66.76,0.3,3.8,MLA1981981759,https://departamento.mercadolibre.com.ar/MLA-1981981759-venta-monoambiente-bartolome-mitre-1700-caba-_JM,False,-1462.1200000000003
+"Moreno 1200, Monserrat, Capital Federal",Monserrat,departamento,115.0,6,2,90000.0,782.61,1845.49,-57.59,1.02,3.71,MLA2055221043,https://departamento.mercadolibre.com.ar/MLA-2055221043-venta-departamento-6-ambientes-monserrat-_JM,False,-1062.88
+"Viamonte Al 400, Retiro, Capital Federal",Retiro,departamento,60.0,4,1,70000.0,1166.67,2651.6,-56.0,1.12,3.67,MLA2861715146,https://departamento.mercadolibre.com.ar/MLA-2861715146-venta-departamento-60m2-_JM,False,-1484.9299999999998
+"Reconquista Al 1000, Retiro, Capital Federal",Retiro,departamento,118.0,5,2,147000.0,1245.76,2819.07,-55.81,1.12,3.65,MLA2759938828,https://departamento.mercadolibre.com.ar/MLA-2759938828-venta-departamento-antiguo-5-ambientes-en-retiro-apto-profesional-_JM,False,-1573.3100000000002
+"Pasaje 2 De Abril 6451 6400, Villa Lugano, Capital Federal",Villa Lugano,departamento,51.0,3,1,32000.0,627.45,1211.31,-48.2,1.75,3.63,MLA2069942353,https://departamento.mercadolibre.com.ar/MLA-2069942353-venta-departamento-3-ambientes-villa-lugano-_JM,False,-583.8599999999999
+"San José 352, Monserrat, Capital Federal",Monserrat,departamento,200.0,8,2,135000.0,675.0,1566.3,-56.9,1.02,3.62,MLA1833545527,https://departamento.mercadolibre.com.ar/MLA-1833545527-piso-de-217-m-8-ambientes-con-2-banos-edificio-historico-excelente-estado-oportunidada-_JM,False,-891.3
+"Blvd. Azucena Villaflor 306, C1107 Comuna 1, Cdad. Autónoma De Buenos Aires, Argentina, Puerto Madero, Capital Federal",Puerto Madero,departamento,99.0,3,1,90000.0,909.09,5525.33,-83.55,-1.23,3.61,MLA3849146854,https://departamento.mercadolibre.com.ar/MLA-3849146854-compra-directa-al-contado-de-sucesiones-parciales-o-totales-principalmente-en-caba-o-gba-oeste-o-norte-tambien-compra-de-propiedades-que-me-gusten-y-me-sirvan-economicamente-consulta-gratis-llamame-_JM,False,-4616.24
+"Avenida Rivadavia 1300, San Nicolás, Capital Federal",San Nicolás,departamento,172.0,7,4,128000.0,744.19,2132.68,-65.11,0.3,3.57,MLA2067516159,https://departamento.mercadolibre.com.ar/MLA-2067516159-venta-departamento-piso-montserrat-_JM,False,-1388.4899999999998
+"Montiel Al 3900, Villa Lugano, Capital Federal",Villa Lugano,departamento,69.0,4,1,39500.0,572.46,1090.44,-47.5,1.75,3.53,MLA1916772733,https://departamento.mercadolibre.com.ar/MLA-1916772733-venta-departamento-4-ambientes-villa-lugano-_JM,False,-517.98
+"Salta 1629, Constitución, Capital Federal",Constitución,departamento,100.0,3,2,80000.0,800.0,1513.06,-47.13,1.78,3.52,MLA1820092893,https://departamento.mercadolibre.com.ar/MLA-1820092893-descubri-un-amplio-3-ambientes-con-dependencia-y-balcon-aterrazado-al-frente-_JM,False,-713.06
+"Villa Lugano, Villa Lugano, Capital Federal",Villa Lugano,departamento,80.0,4,2,59000.0,737.5,1400.94,-47.36,1.75,3.51,MLA2032650465,https://departamento.mercadolibre.com.ar/MLA-2032650465-cuatro-ambientes-en-venta-en-samore-_JM,False,-663.44
+"Suipacha 800, Retiro, Capital Federal",Retiro,departamento,90.0,4,2,120000.0,1333.33,2947.59,-54.77,1.12,3.5,MLA3866844098,https://departamento.mercadolibre.com.ar/MLA-3866844098-venta-4-ambientes-amplios-en-retiro-_JM,False,-1614.2600000000002
+"Moreno 950, Ciudad Autónoma De Buenos Aires, Argentina, Monserrat, Capital Federal",Monserrat,departamento,116.0,4,2,105000.0,905.17,2058.95,-56.04,1.02,3.5,MLA1804061605,https://departamento.mercadolibre.com.ar/MLA-1804061605-venta-departamento-4-ambientes-moreno-950-buenos-aires-_JM,False,-1153.7799999999997
+"Florida Al 700, Retiro, Capital Federal",Retiro,departamento,96.0,4,1,115000.0,1197.92,2624.09,-54.35,1.12,3.45,MLA1737790727,https://departamento.mercadolibre.com.ar/MLA-1737790727-depto-retiro-2-plantas-3-dorm-bajas-expensas-_JM,False,-1426.17
+"Palos 400, La Boca, Capital Federal",La Boca,departamento,45.0,3,1,25000.0,555.56,1365.65,-59.32,0.69,3.42,MLA2002566725,https://departamento.mercadolibre.com.ar/MLA-2002566725-depto-de-50m2-con-renta-hoy-rinde-el-16-anual-_JM,False,-810.0900000000001
+"Tacuarí 1300, Monserrat, Capital Federal",Monserrat,departamento,90.0,3,2,88000.0,977.78,2185.94,-55.27,1.02,3.4,MLA2807223944,https://departamento.mercadolibre.com.ar/MLA-2807223944-departamento-venta-3-ambientes-dependencia-monserrat-_JM,False,-1208.16
+"Soliz 200, Monserrat, Capital Federal",Monserrat,departamento,99.0,4,1,78000.0,787.88,1753.03,-55.06,1.02,3.37,MLA3869028126,https://departamento.mercadolibre.com.ar/MLA-3869028126-venta-nuda-propiedad-en-monserrat-a-reciclar-_JM,False,-965.15
+"Cuter Luisito 4000, Villa Lugano, Capital Federal",Villa Lugano,departamento,65.0,3,1,42000.0,646.15,1200.61,-46.18,1.75,3.35,MLA3912422360,https://departamento.mercadolibre.com.ar/MLA-3912422360-venta-departamento-3-amb-villa-lugano-_JM,False,-554.4599999999999
+"Montiel 4000, Villa Lugano, Capital Federal",Villa Lugano,departamento,70.0,6,2,45000.0,642.86,1194.36,-46.18,1.75,3.35,MLA3912823078,https://departamento.mercadolibre.com.ar/MLA-3912823078-venta-departamento-6-ambientes-bpiedrabuena-_JM,False,-551.4999999999999
+"Solis Al 1800, Constitución, Capital Federal",Constitución,departamento,84.0,3,1,55000.0,654.76,1206.37,-45.72,1.78,3.33,MLA3205695862,https://departamento.mercadolibre.com.ar/MLA-3205695862-3-amb-triplex-con-terraza-parrilla-y-altillo-_JM,False,-551.6099999999999
+"Maipu 971, Retiro, Capital Federal",Retiro,departamento,48.0,1,1,67000.0,1395.83,2982.12,-53.19,1.12,3.29,MLA3832998876,https://departamento.mercadolibre.com.ar/MLA-3832998876-venta-monoambiente-divisible-apto-profesional-en-retiro-a-metros-de-plaza-san-martin-_JM,False,-1586.29
+"Constitución 1200, Constitución, Capital Federal",Constitución,departamento,83.0,4,1,50000.0,602.41,1100.02,-45.24,1.78,3.27,MLA3912110516,https://departamento.mercadolibre.com.ar/MLA-3912110516-venta-4-amb-al-frente-primer-piso-constitucion-_JM,False,-497.61
+"Zuviría 6950, Villa Lugano, Capital Federal",Villa Lugano,departamento,76.0,4,1,45000.0,592.11,1085.09,-45.43,1.75,3.25,MLA2904302086,https://departamento.mercadolibre.com.ar/MLA-2904302086-departamento-en-venta-en-piedrabuena-_JM,False,-492.9799999999999
