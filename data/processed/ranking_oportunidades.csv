@@ -1,0 +1,51 @@
+﻿direccion,barrio,tipo_propiedad,m2_cubiertos,ambientes,banos,precio_usd,precio_m2,precio_m2_esperado,residuo_pct,score_barrio,score_propiedad
+"Santiago Del Estero  1300, Constitución, Capital Federal",Constitucion,departamento,184.0,5,4,125000.0,679.35,1872.46,-63.72,1.78,5.78
+"Santiago Del Estero 1784, Constitución, Capital Federal",Constitucion,departamento,31.0,1,1,16800.0,541.94,1461.11,-62.91,1.78,5.67
+"Avenida Ingeniero Huergo 1191, San Telmo, Capital Federal",San Telmo,departamento,140.0,4,3,100000.0,714.29,2624.41,-72.78,0.59,5.09
+"Pasaje 2 De Abril De 1982 6400, Villa Lugano, Capital Federal",Villa Lugano,departamento,93.0,5,2,49000.0,526.88,1283.89,-58.96,1.75,5.09
+"Avenida Belgrano 800, Monserrat, Capital Federal",Monserrat,departamento,130.0,4,2,87000.0,669.23,2048.25,-67.33,1.02,5.04
+"José León Suárez 2540, Mataderos, Capital Federal",Mataderos,departamento,45.0,2,1,22500.0,500.0,1907.94,-73.79,0.39,4.9
+"2 De Abril De 1982 6500, Buenos Aires, Argentina, Villa Lugano, Capital Federal",Villa Lugano,departamento,91.0,5,2,50000.0,549.45,1285.42,-57.26,1.75,4.86
+"Paraguay 1300, Recoleta, Capital Federal",Recoleta,departamento,209.0,5,3,193000.0,923.44,3436.13,-73.13,0.28,4.64
+"Salta Al 2000, Constitución, Capital Federal",Constitucion,departamento,145.0,4,2,89000.0,613.79,1371.55,-55.25,1.78,4.63
+"Carlos Pellegrini  Al 1200, Retiro, Capital Federal",Retiro,departamento,153.0,4,3,188000.0,1228.76,3218.35,-61.82,1.12,4.46
+"José Aarón Salmún Feijóo 953, Barracas, Capital Federal",Barracas,departamento,125.0,4,2,65000.0,520.0,2048.5,-74.62,0.04,4.45
+"MONTIEL  3900, Villa Lugano, Capital Federal",Villa Lugano,departamento,80.0,5,2,48500.0,606.25,1293.83,-53.14,1.75,4.3
+"Lima 900 - 1200, San Telmo, Capital Federal",San Telmo,departamento,118.0,3,2,95000.0,805.08,2429.43,-66.86,0.59,4.29
+"Luisito Cuter 4020, Villa Lugano, Capital Federal",Villa Lugano,departamento,99.0,4,2,65000.0,656.57,1386.42,-52.64,1.75,4.23
+"Goleta Santa Cruz 6800, Villa Lugano, Capital Federal",Villa Lugano,departamento,71.0,4,1,37000.0,521.13,1088.91,-52.14,1.75,4.16
+"Zuviría 6800, Villa Lugano, Capital Federal",Villa Lugano,departamento,75.0,4,1,39000.0,520.0,1085.85,-52.11,1.75,4.16
+"Lima Al 1000, Constitución, Capital Federal",Constitucion,departamento,117.0,3,2,85000.0,726.5,1500.07,-51.57,1.78,4.13
+"Presidente Luis Saenz Peña Al 1400, Constitución, Capital Federal",Constitucion,departamento,36.0,1,1,25500.0,708.33,1457.29,-51.39,1.78,4.1
+"2 De Abril De 1982 Al 6400, Villa Lugano, Capital Federal",Villa Lugano,departamento,97.0,6,2,55000.0,567.01,1173.72,-51.69,1.75,4.1
+"Avenida Escalada 4500, Villa Lugano, Capital Federal",Villa Lugano,departamento,116.0,4,3,95000.0,818.97,1692.34,-51.61,1.75,4.09
+"Zuviría 6848, BEZ, Villa Lugano, Capital Federal",Villa Lugano,departamento,74.0,4,1,39000.0,527.03,1086.61,-51.5,1.75,4.08
+"RIVADAVIA, AV. Al 1300. Entre San Jose Y Santiago Del Estero, Monserrat, Capital Federal",Monserrat,departamento,170.0,4,4,179500.0,1055.88,2655.51,-60.24,1.02,4.07
+"Avenida Soldado De La Frontera 4600, Villa Lugano, Capital Federal",Villa Lugano,departamento,51.0,3,1,30000.0,588.24,1211.31,-51.44,1.75,4.07
+"Moreno 950, Monserrat, Capital Federal",Monserrat,departamento,116.0,4,3,110000.0,948.28,2377.87,-60.12,1.02,4.06
+"Solis Al 300, Monserrat, Capital Federal",Monserrat,departamento,226.0,2,1,169500.0,750.0,1870.2,-59.9,1.02,4.03
+"Av Libertador 300, Retiro, Capital Federal",Retiro,departamento,149.0,4,3,199000.0,1335.57,3221.41,-58.54,1.12,4.02
+"Reconquista Al 600, Retiro, Capital Federal",Retiro,departamento,92.0,6,1,95000.0,1032.61,2412.91,-57.2,1.12,3.84
+"Bartolomé Mitre 1700, San Nicolás, Capital Federal",San Nicolas,departamento,103.0,1,2,75000.0,728.16,2190.28,-66.76,0.3,3.8
+"Moreno 1200, Monserrat, Capital Federal",Monserrat,departamento,115.0,6,2,90000.0,782.61,1845.49,-57.59,1.02,3.71
+"Viamonte Al 400, Retiro, Capital Federal",Retiro,departamento,60.0,4,1,70000.0,1166.67,2651.6,-56.0,1.12,3.67
+"Reconquista Al 1000, Retiro, Capital Federal",Retiro,departamento,118.0,5,2,147000.0,1245.76,2819.07,-55.81,1.12,3.65
+"Pasaje 2 De Abril 6451 6400, Villa Lugano, Capital Federal",Villa Lugano,departamento,51.0,3,1,32000.0,627.45,1211.31,-48.2,1.75,3.63
+"San José 352, Monserrat, Capital Federal",Monserrat,departamento,200.0,8,2,135000.0,675.0,1566.3,-56.9,1.02,3.62
+"Blvd. Azucena Villaflor 306, C1107 Comuna 1, Cdad. Autónoma De Buenos Aires, Argentina, Puerto Madero, Capital Federal",Puerto Madero,departamento,99.0,3,1,90000.0,909.09,5525.33,-83.55,-1.23,3.61
+"Avenida Rivadavia 1300, San Nicolás, Capital Federal",San Nicolas,departamento,172.0,7,4,128000.0,744.19,2132.68,-65.11,0.3,3.57
+"Montiel Al 3900, Villa Lugano, Capital Federal",Villa Lugano,departamento,69.0,4,1,39500.0,572.46,1090.44,-47.5,1.75,3.53
+"Salta 1629, Constitución, Capital Federal",Constitucion,departamento,100.0,3,2,80000.0,800.0,1513.06,-47.13,1.78,3.52
+"Villa Lugano, Villa Lugano, Capital Federal",Villa Lugano,departamento,80.0,4,2,59000.0,737.5,1400.94,-47.36,1.75,3.51
+"Suipacha 800, Retiro, Capital Federal",Retiro,departamento,90.0,4,2,120000.0,1333.33,2947.59,-54.77,1.12,3.5
+"Moreno 950, Ciudad Autónoma De Buenos Aires, Argentina, Monserrat, Capital Federal",Monserrat,departamento,116.0,4,2,105000.0,905.17,2058.95,-56.04,1.02,3.5
+"Florida Al 700, Retiro, Capital Federal",Retiro,departamento,96.0,4,1,115000.0,1197.92,2624.09,-54.35,1.12,3.45
+"Palos 400, La Boca, Capital Federal",La Boca,departamento,45.0,3,1,25000.0,555.56,1365.65,-59.32,0.69,3.42
+"Tacuarí 1300, Monserrat, Capital Federal",Monserrat,departamento,90.0,3,2,88000.0,977.78,2185.94,-55.27,1.02,3.4
+"Soliz 200, Monserrat, Capital Federal",Monserrat,departamento,99.0,4,1,78000.0,787.88,1753.03,-55.06,1.02,3.37
+"Cuter Luisito 4000, Villa Lugano, Capital Federal",Villa Lugano,departamento,65.0,3,1,42000.0,646.15,1200.61,-46.18,1.75,3.35
+"Montiel 4000, Villa Lugano, Capital Federal",Villa Lugano,departamento,70.0,6,2,45000.0,642.86,1194.36,-46.18,1.75,3.35
+"Solis Al 1800, Constitución, Capital Federal",Constitucion,departamento,84.0,3,1,55000.0,654.76,1206.37,-45.72,1.78,3.33
+"Maipu 971, Retiro, Capital Federal",Retiro,departamento,48.0,1,1,67000.0,1395.83,2982.12,-53.19,1.12,3.29
+"Constitución 1200, Constitución, Capital Federal",Constitucion,departamento,83.0,4,1,50000.0,602.41,1100.02,-45.24,1.78,3.27
+"Zuviría 6950, Villa Lugano, Capital Federal",Villa Lugano,departamento,76.0,4,1,45000.0,592.11,1085.09,-45.43,1.75,3.25
