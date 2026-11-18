@@ -1,0 +1,31 @@
+# Dependencias del proyecto — TP Analítica Descriptiva G6
+# Instalación:  pip install -r requirements.txt
+# (para fijar tus versiones exactas: pip freeze > requirements.txt)
+
+# Análisis de datos
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+
+# Modelado y machine learning (H1, clustering, PCA — notebook 04)
+scikit-learn>=1.3
+
+# Datos geoespaciales (barrios de CABA — notebook 03)
+geopandas>=0.14
+
+# Visualización
+matplotlib>=3.7
+seaborn>=0.12
+
+# Entorno de notebooks
+jupyter>=1.0
+ipykernel>=6.0
+
+# Descarga de fuentes externas (API bluelytics en 01, GeoJSON en 03)
+requests>=2.31
+
+# Scraping (solo para re-ejecutar la extracción en scrapers/)
+beautifulsoup4>=4.12
+lxml>=5.0
+playwright>=1.40
+curl_cffi>=0.6
